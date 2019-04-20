@@ -43,7 +43,7 @@
 	{
 		"abr": "heatwave",
 		"price": 750,
-		"karmatype": "Bad"
+		"karmatype": "Good"
 	},
 	{
 		"abr": "flashstorm",
@@ -114,11 +114,6 @@
 		"abr": "orbitaltraderarrival",
 		"price": 350,
 		"karmatype": "Good"
-	},
-	{
-		"abr": "genderswap",
-		"price": 150,
-		"karmatype": "Neutral"
 	},
 	{
 		"abr": "inspiration",
@@ -201,8 +196,23 @@
 		"karmatype": "Good"
 	},
 	{
+		"abr": "party",
+		"price": 400,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "alphabeavers",
 		"price": 600,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "shippartpoison",
+		"price": 1900,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "shippartpsychic",
+		"price": 2400,
 		"karmatype": "Bad"
 	},
 	{
@@ -212,6 +222,11 @@
 	},
 	{
 		"abr": "raid",
+		"price": 1500,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "dropraid",
 		"price": 1500,
 		"karmatype": "Bad"
 	},
@@ -271,6 +286,21 @@
 		"karmatype": "Good"
 	},
 	{
+		"abr": "trait",
+		"price": 3500,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "removetrait",
+		"price": 5500,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "genderswap",
+		"price": 600,
+		"karmatype": "Neutral"
+	},
+	{
 		"abr": "bloodbowl",
 		"price": 1200,
 		"karmatype": "Good"
@@ -296,5 +326,5 @@
 		"karmatype": "Bad"
 	}
 	],
-	"total": 59
+	"total": 65
 }
