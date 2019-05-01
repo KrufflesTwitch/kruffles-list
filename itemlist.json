@@ -4358,7 +4358,7 @@
 	},
 	{
 		"abr": "standinglamp",
-		"price": 65,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "StandingLamp"
 	},
@@ -4484,7 +4484,7 @@
 	},
 	{
 		"abr": "sunlamp",
-		"price": 129,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "SunLamp"
 	},
@@ -4910,19 +4910,19 @@
 	},
 	{
 		"abr": "wall",
-		"price": 17,
+		"price": -10,
 		"category": "Structure",
 		"defname": "Wall"
 	},
 	{
 		"abr": "wallbluelight",
-		"price": 550,
+		"price": -10,
 		"category": "Structure",
 		"defname": "WallLight_Blue"
 	},
 	{
 		"abr": "wallcyanlight",
-		"price": 550,
+		"price": -10,
 		"category": "Structure",
 		"defname": "WallLight_Cyan"
 	},
@@ -4934,13 +4934,13 @@
 	},
 	{
 		"abr": "wallgreenlight",
-		"price": 550,
+		"price": -10,
 		"category": "Structure",
 		"defname": "WallLight_Green"
 	},
 	{
 		"abr": "walllight",
-		"price": 550,
+		"price": -10,
 		"category": "Structure",
 		"defname": "WallLight_White"
 	},
@@ -4952,19 +4952,19 @@
 	},
 	{
 		"abr": "walllight((blue)old)",
-		"price": 16,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "Lighting_MURWallLightBlue"
 	},
 	{
 		"abr": "walllight((green)old)",
-		"price": 16,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "Lighting_MURWallLightGreen"
 	},
 	{
 		"abr": "walllight((red)old)",
-		"price": 16,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "Lighting_MURWallLightRed"
 	},
@@ -4982,7 +4982,7 @@
 	},
 	{
 		"abr": "walllight(old)",
-		"price": 16,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "Lighting_MURWallLight"
 	},
@@ -4994,13 +4994,13 @@
 	},
 	{
 		"abr": "wallpurplelight",
-		"price": 550,
+		"price": -10,
 		"category": "Structure",
 		"defname": "WallLight_Purple"
 	},
 	{
 		"abr": "wallredlight",
-		"price": 550,
+		"price": -10,
 		"category": "Structure",
 		"defname": "WallLight_Red"
 	},
@@ -5012,13 +5012,13 @@
 	},
 	{
 		"abr": "wallwindow",
-		"price": 550,
+		"price": -10,
 		"category": "Structure",
 		"defname": "WallWindow"
 	},
 	{
 		"abr": "wallyellowlight",
-		"price": 550,
+		"price": -10,
 		"category": "Structure",
 		"defname": "WallLight_Yellow"
 	},
