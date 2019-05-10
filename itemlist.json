@@ -1214,7 +1214,7 @@
 	},
 	{
 		"abr": "cooler",
-		"price": 458,
+		"price": -10,
 		"category": "Temperature",
 		"defname": "Cooler"
 	},
@@ -5312,7 +5312,7 @@
 	},
 	{
 		"abr": "fertilitytotem",
-		"price": 1,
+		"price": 50,
 		"category": "Buildings",
 		"defname": "Cults_FertilityTotem"
 	},
@@ -5486,7 +5486,7 @@
 	},
 	{
 		"abr": "sleeptotem",
-		"price": 1,
+		"price": 50,
 		"category": "Buildings",
 		"defname": "Cults_SleepTotem"
 	},
@@ -5501,7 +5501,55 @@
 		"price": 33,
 		"category": "Items",
 		"defname": "Cults_TheKingInYellow"
+	},
+	{
+		"abr": "druidspell:briarpatch",
+		"price": 950,
+		"category": "Scrolls",
+		"defname": "SpellOf_BriarPatch"
+	},
+	{
+		"abr": "fighterskill:burningfury",
+		"price": 1583,
+		"category": "Scrolls",
+		"defname": "SkillOf_BurningFury"
+	},
+	{
+		"abr": "fighterskill:pommelstrike",
+		"price": 1667,
+		"category": "Scrolls",
+		"defname": "SkillOf_PommelStrike"
+	},
+	{
+		"abr": "fighterskill:throwingknife",
+		"price": 1583,
+		"category": "Scrolls",
+		"defname": "SkillOf_ThrowingKnife"
+	},
+	{
+		"abr": "magespell:arcanebolt",
+		"price": 950,
+		"category": "Scrolls",
+		"defname": "SpellOf_ArcaneBolt"
+	},
+	{
+		"abr": "magespell:invisibility",
+		"price": 2000,
+		"category": "Scrolls",
+		"defname": "SpellOf_Invisibility"
+	},
+	{
+		"abr": "magespell:lightningtrap",
+		"price": 2000,
+		"category": "Scrolls",
+		"defname": "SpellOf_LightningTrap"
+	},
+	{
+		"abr": "undeadmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_TM_Undead"
 	}
 	],
-	"total": 917
+	"total": 925
 }
