@@ -262,7 +262,7 @@
 	},
 	{
 		"abr": "pawn",
-		"price": 1500,
+		"price": 1000,
 		"karmatype": "Good"
 	},
 	{
@@ -277,17 +277,17 @@
 	},
 	{
 		"abr": "trait",
-		"price": 1750,
+		"price": 1000,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "removetrait",
-		"price": 2600,
+		"price": 1000,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "genderswap",
-		"price": 600,
+		"price": 500,
 		"karmatype": "Neutral"
 	},
 	{
@@ -319,7 +319,67 @@
 		"abr": "mentalbreak",
 		"price": 1500,
 		"karmatype": "Bad"
+	},
+	{
+		"abr": "reversetraderequest",
+		"price": 700,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "woundedcombatants",
+		"price": 1500,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "pirateextortion",
+		"price": 2500,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "roadworks",
+		"price": 1000,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "diplomaticmarriage",
+		"price": 1000,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "mysticalshaman",
+		"price": 1000,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "annualexpo",
+		"price": 1000,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "peacetalks",
+		"price": 1000,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "piratecamp",
+		"price": 1000,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "bumpercrops",
+		"price": 1000,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "hunterslodge",
+		"price": 1000,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "baseattack",
+		"price": 1000,
+		"karmatype": "Neutral"
 	}
 	],
-	"total": 64
+	"total": 76
 }
