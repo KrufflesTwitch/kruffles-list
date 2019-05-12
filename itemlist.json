@@ -2255,7 +2255,589 @@
 		"price": 2917,
 		"category": "Skill books",
 		"defname": "Torn_BookOfHemomancy"
+	},
+	{
+		"abr": "antiquedoor",
+		"price": 159,
+		"category": "Structure",
+		"defname": "RGK_DoorOld"
+	},
+	{
+		"abr": "bench",
+		"price": 358,
+		"category": "Furniture",
+		"defname": "GL_Bench"
+	},
+	{
+		"abr": "blacksmithanvilandforge",
+		"price": 442,
+		"category": "Production",
+		"defname": "LotR_TableSmithy"
+	},
+	{
+		"abr": "bookshelf",
+		"price": 900,
+		"category": "Misc",
+		"defname": "GL_Bookshelf"
+	},
+	{
+		"abr": "bowl",
+		"price": 104,
+		"category": "Furniture",
+		"defname": "RGK_DogBowl"
+	},
+	{
+		"abr": "butchershelf",
+		"price": 260,
+		"category": "Furniture",
+		"defname": "SM_ButcherShelf"
+	},
+	{
+		"abr": "celticrug",
+		"price": 400,
+		"category": "Furniture",
+		"defname": "RugC"
+	},
+	{
+		"abr": "cram",
+		"price": 2,
+		"category": "Foods",
+		"defname": "LotR_Cram"
+	},
+	{
+		"abr": "diningchair",
+		"price": 192,
+		"category": "Furniture",
+		"defname": "RGKDiningChair"
+	},
+	{
+		"abr": "door",
+		"price": 14,
+		"category": "Structure",
+		"defname": "RGK_Door"
+	},
+	{
+		"abr": "dragon(fire-drake)meat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_LotRD_DragonFireDrakeRace"
+	},
+	{
+		"abr": "dragonhide",
+		"price": 27,
+		"category": "Leathers",
+		"defname": "LotRD_Leather_Dragon"
+	},
+	{
+		"abr": "druidspell:briarpatch",
+		"price": 950,
+		"category": "Scrolls",
+		"defname": "SpellOf_BriarPatch"
+	},
+	{
+		"abr": "dwarfbattleaxe",
+		"price": 692,
+		"category": "Melee weapons",
+		"defname": "LotRD_MeleeWeapon_AxeBattle"
+	},
+	{
+		"abr": "dwarfcrossbow",
+		"price": 236,
+		"category": "Ranged weapons",
+		"defname": "LotRD_Bow_DwarvenCross"
+	},
+	{
+		"abr": "dwarfdouble-beardedaxe",
+		"price": 775,
+		"category": "Melee weapons",
+		"defname": "LotRD_MeleeWeapon_AxeWarGimli"
+	},
+	{
+		"abr": "dwarfhornbow",
+		"price": 186,
+		"category": "Ranged weapons",
+		"defname": "LotRD_Bow_Dwarven"
+	},
+	{
+		"abr": "dwarfleather",
+		"price": 7,
+		"category": "Leathers",
+		"defname": "LotRD_Leather_Dwarf"
+	},
+	{
+		"abr": "dwarfmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_LotRD_DwarfStandardRace"
+	},
+	{
+		"abr": "dwarfwalkingaxe",
+		"price": 642,
+		"category": "Melee weapons",
+		"defname": "LotRD_MeleeWeapon_AxeGimliWalking"
+	},
+	{
+		"abr": "dwarf-king'scrown",
+		"price": 1775,
+		"category": "Headgear",
+		"defname": "LotRD_DwarfApparel_Crown"
+	},
+	{
+		"abr": "dwarf-shield",
+		"price": 209,
+		"category": "Melee weapons",
+		"defname": "LotRD_DwarfStandardShield"
+	},
+	{
+		"abr": "dwarf-shield(green)",
+		"price": 209,
+		"category": "Melee weapons",
+		"defname": "LotRD_DwarfStandardShieldThree"
+	},
+	{
+		"abr": "dwarf-shield(heraldry)",
+		"price": 209,
+		"category": "Melee weapons",
+		"defname": "LotRD_DwarfStandardShieldFour"
+	},
+	{
+		"abr": "dwarf-shield(knotted)",
+		"price": 209,
+		"category": "Melee weapons",
+		"defname": "LotRD_DwarfStandardShieldTwo"
+	},
+	{
+		"abr": "dwarf-shield(noble)",
+		"price": 209,
+		"category": "Melee weapons",
+		"defname": "LotRD_DwarfStandardShieldFive"
+	},
+	{
+		"abr": "dwarf-spear",
+		"price": 467,
+		"category": "Melee weapons",
+		"defname": "LotRD_MeleeWeapon_DwarfSpear"
+	},
+	{
+		"abr": "dwarf-sword",
+		"price": 575,
+		"category": "Melee weapons",
+		"defname": "LotRD_MeleeWeapon_DwarfSwordBandit"
+	},
+	{
+		"abr": "dwarvenbrazierbox",
+		"price": 68,
+		"category": "Furniture",
+		"defname": "LotRD_Brazier"
+	},
+	{
+		"abr": "dwarvencandelabra",
+		"price": 243,
+		"category": "Furniture",
+		"defname": "LotRD_DwarvenCandelabra"
+	},
+	{
+		"abr": "dwarvenchandelier",
+		"price": 383,
+		"category": "Furniture",
+		"defname": "LotRD_Chandelier"
+	},
+	{
+		"abr": "dwarvendresser",
+		"price": 213,
+		"category": "Furniture",
+		"defname": "LotRD_Dresser"
+	},
+	{
+		"abr": "dwarvenendtable",
+		"price": 141,
+		"category": "Furniture",
+		"defname": "LotRD_EndTable"
+	},
+	{
+		"abr": "dwarvengametable",
+		"price": 542,
+		"category": "Dwarven",
+		"defname": "LotRD_GameTable"
+	},
+	{
+		"abr": "dwarvengrandgate(3x2)",
+		"price": 1683,
+		"category": "Buildings",
+		"defname": "PH_DoorDoubleDwarvenGrand"
+	},
+	{
+		"abr": "dwarvenithildinlamp",
+		"price": 261,
+		"category": "Furniture",
+		"defname": "LotRD_DwarvenStreetLamp"
+	},
+	{
+		"abr": "dwarvenithildinwalllight",
+		"price": 166,
+		"category": "Furniture",
+		"defname": "LotRD_DwarvenWallLight"
+	},
+	{
+		"abr": "dwarvenmead",
+		"price": 27,
+		"category": "Drugs",
+		"defname": "LotRD_Mead"
+	},
+	{
+		"abr": "dwarvenreinforceddoor",
+		"price": 174,
+		"category": "Buildings",
+		"defname": "LotRD_DoorDwarven"
+	},
+	{
+		"abr": "dwarvenstool",
+		"price": 106,
+		"category": "Furniture",
+		"defname": "LotRD_Stool"
+	},
+	{
+		"abr": "dwarventable(1x1)",
+		"price": 141,
+		"category": "Furniture",
+		"defname": "LotRD_Table1x1c"
+	},
+	{
+		"abr": "dwarventable(1x2)",
+		"price": 158,
+		"category": "Furniture",
+		"defname": "LotRD_Table1x2c"
+	},
+	{
+		"abr": "dwarventhrone",
+		"price": 1183,
+		"category": "Furniture",
+		"defname": "LotRD_DwarvenThrone"
+	},
+	{
+		"abr": "dwarventunic",
+		"price": 199,
+		"category": "Apparel",
+		"defname": "LotRD_DwarfApparel_Tunic"
+	},
+	{
+		"abr": "earthbread",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "LotRD_RawEarthBread"
+	},
+	{
+		"abr": "elfbuckler",
+		"price": 212,
+		"category": "Melee weapons",
+		"defname": "LotRE_ElvenShieldBuckler"
+	},
+	{
+		"abr": "elfcrown",
+		"price": 171,
+		"category": "Headgear",
+		"defname": "LotRE_ElfApparel_WoodElfCrown"
+	},
+	{
+		"abr": "elfdoll(dwarfmake)",
+		"price": 108,
+		"category": "Items",
+		"defname": "LotRD_DwarfElfToy"
+	},
+	{
+		"abr": "elfleather",
+		"price": 8,
+		"category": "Leathers",
+		"defname": "LotRE_Leather_Elf"
+	},
+	{
+		"abr": "elflhang",
+		"price": 808,
+		"category": "Melee weapons",
+		"defname": "LotRE_MeleeWeapon_Lhang"
+	},
+	{
+		"abr": "elfmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_LotRE_ElfStandardRace"
+	},
+	{
+		"abr": "elfsaber",
+		"price": 700,
+		"category": "Melee weapons",
+		"defname": "LotRE_MeleeWeapon_Saber"
+	},
+	{
+		"abr": "elfwhiteknives",
+		"price": 608,
+		"category": "Melee weapons",
+		"defname": "LotRE_MeleeWeapon_WhiteKnives"
+	},
+	{
+		"abr": "elf-cape(coastal)",
+		"price": 191,
+		"category": "Apparel",
+		"defname": "LotRE_Apparel_CapeCoastal"
+	},
+	{
+		"abr": "elf-cape(woodland)",
+		"price": 191,
+		"category": "Apparel",
+		"defname": "LotRE_Apparel_Cape"
+	},
+	{
+		"abr": "elf-robe(coastal)",
+		"price": 245,
+		"category": "Apparel",
+		"defname": "LotRE_ElfApparel_SimpleRobeSea"
+	},
+	{
+		"abr": "elf-robe(noble)",
+		"price": 245,
+		"category": "Apparel",
+		"defname": "LotRE_ElfApparel_SimpleRobeHigh"
+	},
+	{
+		"abr": "elf-robe(woodland)",
+		"price": 245,
+		"category": "Apparel",
+		"defname": "LotRE_ElfApparel_SimpleRobeWoodland"
+	},
+	{
+		"abr": "elvencandelabra",
+		"price": 209,
+		"category": "Furniture",
+		"defname": "LotRE_ElvenCandelabra"
+	},
+	{
+		"abr": "elvenchair",
+		"price": 236,
+		"category": "Furniture",
+		"defname": "LotRE_Chair"
+	},
+	{
+		"abr": "elvengrandgate(2x2)",
+		"price": 675,
+		"category": "Buildings",
+		"defname": "PH_DoorDoubleElvishGrand"
+	},
+	{
+		"abr": "elvenloungebed",
+		"price": 105,
+		"category": "Furniture",
+		"defname": "LotRE_ElvenBed"
+	},
+	{
+		"abr": "elvenroyalbed",
+		"price": 1225,
+		"category": "Furniture",
+		"defname": "LotRE_ElvenRoyalBed"
+	},
+	{
+		"abr": "elventable(2x2)",
+		"price": 176,
+		"category": "Furniture",
+		"defname": "LotRE_ElvishTable2x2c"
+	},
+	{
+		"abr": "elven,decorativefencegate.",
+		"price": 172,
+		"category": "Buildings",
+		"defname": "Elven_Fence_GateA"
+	},
+	{
+		"abr": "elven,decorativefencegate.",
+		"price": 172,
+		"category": "Buildings",
+		"defname": "Elven_Fence_GateB"
+	},
+	{
+		"abr": "elvishbread",
+		"price": 33,
+		"category": "Meals",
+		"defname": "LotRE_ElvishBread"
+	},
+	{
+		"abr": "falathrim-elfarmor",
+		"price": 287,
+		"category": "Apparel",
+		"defname": "LotRE_ElfApparel_BattleArmorSea"
+	},
+	{
+		"abr": "falathrim-elfhelmet",
+		"price": 86,
+		"category": "Headgear",
+		"defname": "LotRE_ElfApparel_BattleHelmetSea"
+	},
+	{
+		"abr": "fermentingbarrel(mead)",
+		"price": 93,
+		"category": "Production",
+		"defname": "LotRD_FermentingBarrel"
+	},
+	{
+		"abr": "fighterskill:burningfury",
+		"price": 1583,
+		"category": "Scrolls",
+		"defname": "SkillOf_BurningFury"
+	},
+	{
+		"abr": "fighterskill:pommelstrike",
+		"price": 1667,
+		"category": "Scrolls",
+		"defname": "SkillOf_PommelStrike"
+	},
+	{
+		"abr": "fighterskill:throwingknife",
+		"price": 1583,
+		"category": "Scrolls",
+		"defname": "SkillOf_ThrowingKnife"
+	},
+	{
+		"abr": "fireplace",
+		"price": 392,
+		"category": "Furniture",
+		"defname": "RGK_Fireplace"
+	},
+	{
+		"abr": "galadhrim-elfarmor",
+		"price": 358,
+		"category": "Apparel",
+		"defname": "LotRE_ElfApparel_BattleArmorTree"
+	},
+	{
+		"abr": "galadhrim-elfbow",
+		"price": 367,
+		"category": "Ranged weapons",
+		"defname": "LotRE_Bow_Galadhrim"
+	},
+	{
+		"abr": "galadhrim-elfhelmet",
+		"price": 342,
+		"category": "Headgear",
+		"defname": "LotRE_ElfApparel_BattleHelmetTree"
+	},
+	{
+		"abr": "half-elfleather",
+		"price": 8,
+		"category": "Leathers",
+		"defname": "LotRE_Leather_ElfHalf"
+	},
+	{
+		"abr": "half-elfmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_LotRE_ElfStandardRaceHalf"
+	},
+	{
+		"abr": "hill-dwarfarmor",
+		"price": 1017,
+		"category": "Apparel",
+		"defname": "LotRD_DwarfApparel_IronHillArmor"
+	},
+	{
+		"abr": "hill-dwarfhelmet",
+		"price": 942,
+		"category": "Headgear",
+		"defname": "LotRD_DwarfApparel_IronHillHelmet"
+	},
+	{
+		"abr": "hill-dwarflordhelm",
+		"price": 942,
+		"category": "Headgear",
+		"defname": "LotRD_DwarfApparel_IronHillHelmetKing"
+	},
+	{
+		"abr": "hill-dwarfshield",
+		"price": 248,
+		"category": "Melee weapons",
+		"defname": "LotRD_IronHillBattleShield"
+	},
+	{
+		"abr": "hobbitanklebiteraxe",
+		"price": 193,
+		"category": "Melee weapons",
+		"defname": "LotRH_AnklebiterAxe"
+	},
+	{
+		"abr": "hobbitarch",
+		"price": 173,
+		"category": "Buildings",
+		"defname": "LotRH_HobbitHoleArch"
+	},
+	{
+		"abr": "hobbitbasket-hiltedsword",
+		"price": 281,
+		"category": "Melee weapons",
+		"defname": "LotRH_Baskethilt"
+	},
+	{
+		"abr": "hobbitdoor",
+		"price": 173,
+		"category": "Buildings",
+		"defname": "LotRH_HobbitHoleDoor"
+	},
+	{
+		"abr": "hobbitdress",
+		"price": 177,
+		"category": "Apparel",
+		"defname": "LotRH_Apparel_Dress"
+	},
+	{
+		"abr": "hobbitjacket",
+		"price": 207,
+		"category": "Apparel",
+		"defname": "LotRH_Apparel_Jacket"
+	},
+	{
+		"abr": "hobbitleather",
+		"price": 8,
+		"category": "Leathers",
+		"defname": "LotRH_Leather_Hobbit"
+	},
+	{
+		"abr": "hobbitmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_LotRH_HobbitStandardRace"
+	},
+	{
+		"abr": "hobbitpants",
+		"price": 176,
+		"category": "Apparel",
+		"defname": "LotRH_Apparel_PantsHobbit"
+	},
+	{
+		"abr": "hobbitpitchfork",
+		"price": 209,
+		"category": "Melee weapons",
+		"defname": "LotRH_Pitchfork"
+	},
+	{
+		"abr": "hobbitshirtandvest",
+		"price": 179,
+		"category": "Apparel",
+		"defname": "LotRH_Apparel_Vest"
+	},
+	{
+		"abr": "hobbittraveler'spack",
+		"price": 179,
+		"category": "Apparel",
+		"defname": "LotRH_Apparel_Backpack"
+	},
+	{
+		"abr": "honeyroot",
+		"price": 2,
+		"category": "Plant matter",
+		"defname": "LotRD_RawHoneyroot"
+	},
+	{
+		"abr": "hoodedcape",
+		"price": 191,
+		"category": "Apparel",
+		"defname": "LotRH_Apparel_Cape"
 	}
 	],
-	"total": 545
+	"total": 636
 }
