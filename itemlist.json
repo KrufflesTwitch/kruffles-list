@@ -620,7 +620,7 @@
 	},
 	{
 		"abr": "door",
-		"price": 88,
+		"price": -10,
 		"category": "Structure",
 		"defname": "Door"
 	},
@@ -2837,7 +2837,13 @@
 		"price": 191,
 		"category": "Apparel",
 		"defname": "LotRH_Apparel_Cape"
+	},
+	{
+		"abr": "horsemeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_LotR_HorseRace"
 	}
 	],
-	"total": 636
+	"total": 637
 }
