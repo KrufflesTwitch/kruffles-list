@@ -16,7 +16,7 @@
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "clearweather",
+		"abr": "rainythunderstorm",
 		"price": 250,
 		"karmatype": "Neutral"
 	},
@@ -43,7 +43,7 @@
 	{
 		"abr": "heatwave",
 		"price": 750,
-		"karmatype": "Good"
+		"karmatype": "Bad"
 	},
 	{
 		"abr": "flashstorm",
@@ -57,7 +57,7 @@
 	},
 	{
 		"abr": "solarflare",
-		"price": 1500,
+		"price": 500,
 		"karmatype": "Bad"
 	},
 	{
@@ -82,7 +82,7 @@
 	},
 	{
 		"abr": "blight",
-		"price": 1500,
+		"price": 700,
 		"karmatype": "Bad"
 	},
 	{
@@ -93,16 +93,6 @@
 	{
 		"abr": "animaltame",
 		"price": 150,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "wandererjoins",
-		"price": 50,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "resourcepodcrash",
-		"price": 300,
 		"karmatype": "Good"
 	},
 	{
@@ -123,11 +113,6 @@
 	{
 		"abr": "madanimal",
 		"price": 600,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "psychicdrone",
-		"price": 400,
 		"karmatype": "Bad"
 	},
 	{
@@ -176,6 +161,11 @@
 		"karmatype": "Good"
 	},
 	{
+		"abr": "party",
+		"price": 400,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "alphabeavers",
 		"price": 600,
 		"karmatype": "Bad"
@@ -188,17 +178,17 @@
 	{
 		"abr": "raid",
 		"price": 1500,
-		"karmatype": "Doom"
+		"karmatype": "Bad"
 	},
 	{
 		"abr": "sapperraid",
 		"price": 1500,
-		"karmatype": "Doom"
+		"karmatype": "Bad"
 	},
 	{
 		"abr": "siegeraid",
 		"price": 2500,
-		"karmatype": "Doom"
+		"karmatype": "Bad"
 	},
 	{
 		"abr": "manhunterpack",
@@ -214,6 +204,11 @@
 		"abr": "disease",
 		"price": 1000,
 		"karmatype": "Bad"
+	},
+	{
+		"abr": "reviveanypawn",
+		"price": 4000,
+		"karmatype": "Good"
 	},
 	{
 		"abr": "pawn",
@@ -252,7 +247,7 @@
 	},
 	{
 		"abr": "dwarf",
-		"price": 1500,
+		"price": 2000,
 		"karmatype": "Good"
 	},
 	{
@@ -263,11 +258,6 @@
 	{
 		"abr": "exoticitem",
 		"price": 900,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "kitsuneassist",
-		"price": 1500,
 		"karmatype": "Good"
 	},
 	{
@@ -336,5 +326,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 67
+	"total": 65
 }
