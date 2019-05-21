@@ -42,7 +42,7 @@
 	},
 	{
 		"abr": "heatwave",
-		"price": 750,
+		"price": 2500,
 		"karmatype": "Bad"
 	},
 	{
@@ -62,12 +62,12 @@
 	},
 	{
 		"abr": "toxicfallout",
-		"price": 4200,
+		"price": 50000,
 		"karmatype": "Doom"
 	},
 	{
 		"abr": "volcanicwinter",
-		"price": 2600,
+		"price": 10000,
 		"karmatype": "Doom"
 	},
 	{
@@ -178,17 +178,17 @@
 	{
 		"abr": "raid",
 		"price": 1500,
-		"karmatype": "Bad"
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "sapperraid",
 		"price": 1500,
-		"karmatype": "Bad"
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "siegeraid",
 		"price": 2500,
-		"karmatype": "Bad"
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "manhunterpack",
@@ -213,11 +213,6 @@
 	{
 		"abr": "pawn",
 		"price": 1000,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "animal",
-		"price": 1500,
 		"karmatype": "Good"
 	},
 	{
@@ -257,7 +252,7 @@
 	},
 	{
 		"abr": "exoticitem",
-		"price": 900,
+		"price": 1000,
 		"karmatype": "Good"
 	},
 	{
@@ -326,5 +321,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 65
+	"total": 64
 }
