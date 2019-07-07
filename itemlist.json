@@ -229,6 +229,12 @@
 		"defname": "RGK_DoorOld"
 	},
 	{
+		"abr": "arcadeconstructiontable",
+		"price": 542,
+		"category": "Production",
+		"defname": "AJO_TableArcadeConstruction"
+	},
+	{
 		"abr": "arcanegemofacceleration",
 		"price": 650,
 		"category": "Magicyte",
@@ -293,6 +299,12 @@
 		"price": 5500,
 		"category": "Skill books",
 		"defname": "BookOfBard"
+	},
+	{
+		"abr": "arcanescript:chronomancer",
+		"price": 5500,
+		"category": "Skill books",
+		"defname": "BookOfChronomancer"
 	},
 	{
 		"abr": "arcanescript:demonology",
@@ -491,6 +503,18 @@
 		"price": 232,
 		"category": "Ranged weapons",
 		"defname": "Gun_Autopistol"
+	},
+	{
+		"abr": "baguettriscabinet",
+		"price": 1333,
+		"category": "Furniture",
+		"defname": "AJO_ArcadeBG"
+	},
+	{
+		"abr": "baguettriscartridge",
+		"price": 167,
+		"category": "Cartridges",
+		"defname": "AJO_CartBG"
 	},
 	{
 		"abr": "barbslinger",
@@ -848,31 +872,31 @@
 	},
 	{
 		"abr": "builderbot(disabled)",
-		"price": 42,
+		"price": -10,
 		"category": "Robots",
 		"defname": "RPP_Bot_Builder_I_disabled"
 	},
 	{
 		"abr": "builderbot(disabled)",
-		"price": 42,
+		"price": -10,
 		"category": "Robots",
 		"defname": "RPP_Bot_Builder_II_disabled"
 	},
 	{
 		"abr": "builderbot(disabled)",
-		"price": 42,
+		"price": -10,
 		"category": "Robots",
 		"defname": "RPP_Bot_Builder_III_disabled"
 	},
 	{
 		"abr": "builderbot(disabled)",
-		"price": 42,
+		"price": -10,
 		"category": "Robots",
 		"defname": "RPP_Bot_Builder_IV_disabled"
 	},
 	{
 		"abr": "builderbot(disabled)",
-		"price": 42,
+		"price": -10,
 		"category": "Robots",
 		"defname": "RPP_Bot_Builder_V_disabled"
 	},
@@ -1033,6 +1057,12 @@
 		"defname": "Gun_ChainShotgun"
 	},
 	{
+		"abr": "chandelier",
+		"price": 153,
+		"category": "Furniture",
+		"defname": "ChanPart_2x2_Support"
+	},
+	{
 		"abr": "chargelance",
 		"price": 2258,
 		"category": "Ranged weapons",
@@ -1141,6 +1171,12 @@
 		"defname": "Chocolate"
 	},
 	{
+		"abr": "chronomancerspell:recall",
+		"price": 3333,
+		"category": "Scrolls",
+		"defname": "SpellOf_Recall"
+	},
+	{
 		"abr": "clay",
 		"price": 3,
 		"category": "Raw resources",
@@ -1178,31 +1214,31 @@
 	},
 	{
 		"abr": "cleaningbot(disabled)",
-		"price": 42,
+		"price": -10,
 		"category": "Robots",
 		"defname": "AIRobot_Cleaner_II_disabled"
 	},
 	{
 		"abr": "cleaningbot(disabled)",
-		"price": 42,
+		"price": -10,
 		"category": "Robots",
 		"defname": "AIRobot_Cleaner_III_disabled"
 	},
 	{
 		"abr": "cleaningbot(disabled)",
-		"price": 42,
+		"price": -10,
 		"category": "Robots",
 		"defname": "AIRobot_Cleaner_IV_disabled"
 	},
 	{
 		"abr": "cleaningbot(disabled)",
-		"price": 42,
+		"price": -10,
 		"category": "Robots",
 		"defname": "AIRobot_Cleaner_V_disabled"
 	},
 	{
 		"abr": "cleaningbot(disabled)",
-		"price": 42,
+		"price": -10,
 		"category": "Robots",
 		"defname": "AIRobot_Cleaner_disabled"
 	},
@@ -1291,6 +1327,12 @@
 		"defname": "BookOfDeathKnight"
 	},
 	{
+		"abr": "combatstyle:monk",
+		"price": 4292,
+		"category": "Skill books",
+		"defname": "BookOfMonk"
+	},
+	{
 		"abr": "combatstyle:ranger",
 		"price": 4292,
 		"category": "Skill books",
@@ -1319,6 +1361,18 @@
 		"price": 140,
 		"category": "Production",
 		"defname": "CompostBarrel"
+	},
+	{
+		"abr": "cookingbabacabinet",
+		"price": 1333,
+		"category": "Furniture",
+		"defname": "AJO_ArcadeCB"
+	},
+	{
+		"abr": "cookingbabacartridge",
+		"price": 167,
+		"category": "Cartridges",
+		"defname": "AJO_CartCB"
 	},
 	{
 		"abr": "cooler",
@@ -1364,31 +1418,31 @@
 	},
 	{
 		"abr": "crafterbot(disabled)",
-		"price": 42,
+		"price": -10,
 		"category": "Robots",
 		"defname": "RPP_Bot_Crafter_I_disabled"
 	},
 	{
 		"abr": "crafterbot(disabled)",
-		"price": 42,
+		"price": -10,
 		"category": "Robots",
 		"defname": "RPP_Bot_Crafter_II_disabled"
 	},
 	{
 		"abr": "crafterbot(disabled)",
-		"price": 42,
+		"price": -10,
 		"category": "Robots",
 		"defname": "RPP_Bot_Crafter_III_disabled"
 	},
 	{
 		"abr": "crafterbot(disabled)",
-		"price": 42,
+		"price": -10,
 		"category": "Robots",
 		"defname": "RPP_Bot_Crafter_IV_disabled"
 	},
 	{
 		"abr": "crafterbot(disabled)",
-		"price": 42,
+		"price": -10,
 		"category": "Robots",
 		"defname": "RPP_Bot_Crafter_V_disabled"
 	},
@@ -1445,6 +1499,12 @@
 		"price": 4167,
 		"category": "Apparel",
 		"defname": "DarkRobe"
+	},
+	{
+		"abr": "dartboard",
+		"price": 60,
+		"category": "Recreation",
+		"defname": "AJO_Dartboard"
 	},
 	{
 		"abr": "decaydrake",
@@ -1687,6 +1747,18 @@
 		"defname": "Apparel_Duster"
 	},
 	{
+		"abr": "eldersconescabinet",
+		"price": 1333,
+		"category": "Furniture",
+		"defname": "AJO_ArcadeES"
+	},
+	{
+		"abr": "eldersconescartridge",
+		"price": 167,
+		"category": "Cartridges",
+		"defname": "AJO_CartES"
+	},
+	{
 		"abr": "electriccrematorium",
 		"price": 700,
 		"category": "Production",
@@ -1849,6 +1921,12 @@
 		"defname": "Shell_EMP"
 	},
 	{
+		"abr": "emptyarcade",
+		"price": 833,
+		"category": "Arcades",
+		"defname": "AJO_ArcadeEmpty"
+	},
+	{
 		"abr": "emu",
 		"price": 333,
 		"category": "Animal",
@@ -1880,31 +1958,31 @@
 	},
 	{
 		"abr": "erbot(disabled)",
-		"price": 42,
+		"price": -10,
 		"category": "Robots",
 		"defname": "RPP_Bot_ER_I_disabled"
 	},
 	{
 		"abr": "erbot(disabled)",
-		"price": 42,
+		"price": -10,
 		"category": "Robots",
 		"defname": "RPP_Bot_ER_II_disabled"
 	},
 	{
 		"abr": "erbot(disabled)",
-		"price": 42,
+		"price": -10,
 		"category": "Robots",
 		"defname": "RPP_Bot_ER_III_disabled"
 	},
 	{
 		"abr": "erbot(disabled)",
-		"price": 42,
+		"price": -10,
 		"category": "Robots",
 		"defname": "RPP_Bot_ER_IV_disabled"
 	},
 	{
 		"abr": "erbot(disabled)",
-		"price": 42,
+		"price": -10,
 		"category": "Robots",
 		"defname": "RPP_Bot_ER_V_disabled"
 	},
@@ -2293,6 +2371,18 @@
 		"defname": "GlowPod"
 	},
 	{
+		"abr": "glutendogscabinet",
+		"price": 1333,
+		"category": "Furniture",
+		"defname": "AJO_ArcadeGD"
+	},
+	{
+		"abr": "glutendogscartridge",
+		"price": 167,
+		"category": "Cartridges",
+		"defname": "AJO_CartGD"
+	},
+	{
 		"abr": "go-juice",
 		"price": 88,
 		"category": "Drugs",
@@ -2383,6 +2473,18 @@
 		"defname": "GunComplex"
 	},
 	{
+		"abr": "halvalifecabinet",
+		"price": 1333,
+		"category": "Furniture",
+		"defname": "AJO_ArcadeHL"
+	},
+	{
+		"abr": "halvalifecartridge",
+		"price": 167,
+		"category": "Cartridges",
+		"defname": "AJO_CartHL"
+	},
+	{
 		"abr": "handtailorbench",
 		"price": 262,
 		"category": "Production",
@@ -2432,31 +2534,31 @@
 	},
 	{
 		"abr": "haulingbot(disabled)",
-		"price": 42,
+		"price": -10,
 		"category": "Robots",
 		"defname": "AIRobot_Hauler_II_disabled"
 	},
 	{
 		"abr": "haulingbot(disabled)",
-		"price": 42,
+		"price": -10,
 		"category": "Robots",
 		"defname": "AIRobot_Hauler_III_disabled"
 	},
 	{
 		"abr": "haulingbot(disabled)",
-		"price": 42,
+		"price": -10,
 		"category": "Robots",
 		"defname": "AIRobot_Hauler_IV_disabled"
 	},
 	{
 		"abr": "haulingbot(disabled)",
-		"price": 42,
+		"price": -10,
 		"category": "Robots",
 		"defname": "AIRobot_Hauler_V_disabled"
 	},
 	{
 		"abr": "haulingbot(disabled)",
-		"price": 42,
+		"price": -10,
 		"category": "Robots",
 		"defname": "AIRobot_Hauler_disabled"
 	},
@@ -2525,6 +2627,18 @@
 		"price": 1383,
 		"category": "Production",
 		"defname": "HiTechResearchBench"
+	},
+	{
+		"abr": "homebrewarcadecabinet",
+		"price": 1333,
+		"category": "Furniture",
+		"defname": "AJO_ArcadeHomebrew"
+	},
+	{
+		"abr": "homebrewcartridge",
+		"price": 167,
+		"category": "Cartridges",
+		"defname": "AJO_CartHomebrew"
 	},
 	{
 		"abr": "hoodofmadness",
@@ -2822,31 +2936,31 @@
 	},
 	{
 		"abr": "kitchenbot(disabled)",
-		"price": 42,
+		"price": -10,
 		"category": "Robots",
 		"defname": "RPP_Bot_Kitchen_I_disabled"
 	},
 	{
 		"abr": "kitchenbot(disabled)",
-		"price": 42,
+		"price": -10,
 		"category": "Robots",
 		"defname": "RPP_Bot_Kitchen_II_disabled"
 	},
 	{
 		"abr": "kitchenbot(disabled)",
-		"price": 42,
+		"price": -10,
 		"category": "Robots",
 		"defname": "RPP_Bot_Kitchen_III_disabled"
 	},
 	{
 		"abr": "kitchenbot(disabled)",
-		"price": 42,
+		"price": -10,
 		"category": "Robots",
 		"defname": "RPP_Bot_Kitchen_IV_disabled"
 	},
 	{
 		"abr": "kitchenbot(disabled)",
-		"price": 42,
+		"price": -10,
 		"category": "Robots",
 		"defname": "RPP_Bot_Kitchen_V_disabled"
 	},
@@ -2939,6 +3053,12 @@
 		"price": 42,
 		"category": "Furniture",
 		"defname": "RGK_LampM"
+	},
+	{
+		"abr": "largechandelier",
+		"price": 238,
+		"category": "Furniture",
+		"defname": "ChanPart_3x3_Support"
 	},
 	{
 		"abr": "largedoormat",
@@ -3613,6 +3733,18 @@
 		"defname": "TM_EStone_wonder_minor"
 	},
 	{
+		"abr": "mintcraftcabinet",
+		"price": 1333,
+		"category": "Furniture",
+		"defname": "AJO_ArcadeMC"
+	},
+	{
+		"abr": "mintcraftcartridge",
+		"price": 167,
+		"category": "Cartridges",
+		"defname": "AJO_CartMC"
+	},
+	{
 		"abr": "moisturepump",
 		"price": 458,
 		"category": "Misc",
@@ -3788,7 +3920,7 @@
 	},
 	{
 		"abr": "omnibot(disabled)",
-		"price": 42,
+		"price": -10,
 		"category": "Robots",
 		"defname": "RPP_Bot_Omni_V_disabled"
 	},
@@ -3860,7 +3992,7 @@
 	},
 	{
 		"abr": "over-wallcooler",
-		"price": 458,
+		"price": -10,
 		"category": "Temperature",
 		"defname": "Cooler_Over"
 	},
@@ -3887,6 +4019,24 @@
 		"price": 2500,
 		"category": "Brain implants",
 		"defname": "Painstopper"
+	},
+	{
+		"abr": "painting",
+		"price": 50,
+		"category": "Art",
+		"defname": "AJO_Painting"
+	},
+	{
+		"abr": "paintingeasel",
+		"price": 33,
+		"category": "Furniture",
+		"defname": "AJO_Easel"
+	},
+	{
+		"abr": "paintingsupplies",
+		"price": 25,
+		"category": "Manufactured",
+		"defname": "AJO_PaintingSupplies"
 	},
 	{
 		"abr": "paladinspell:holywrath",
@@ -3973,6 +4123,12 @@
 		"defname": "Penoxycyline"
 	},
 	{
+		"abr": "perodyne",
+		"price": 17,
+		"category": "Drugs",
+		"defname": "AJO_Perodyne"
+	},
+	{
 		"abr": "pig",
 		"price": 333,
 		"category": "Animal",
@@ -4019,6 +4175,18 @@
 		"price": 68,
 		"category": "Furniture",
 		"defname": "PlantPot"
+	},
+	{
+		"abr": "plantsvs.salamiscabinet",
+		"price": 1333,
+		"category": "Furniture",
+		"defname": "AJO_ArcadePS"
+	},
+	{
+		"abr": "plantsvs.salamiscartridge",
+		"price": 167,
+		"category": "Cartridges",
+		"defname": "AJO_CartPS"
 	},
 	{
 		"abr": "plasteel",
@@ -4171,6 +4339,18 @@
 		"defname": "PsychiteTea"
 	},
 	{
+		"abr": "psychoknotscabinet",
+		"price": 1333,
+		"category": "Furniture",
+		"defname": "AJO_ArcadePK"
+	},
+	{
+		"abr": "psychoknotscartridge",
+		"price": 167,
+		"category": "Cartridges",
+		"defname": "AJO_CartPK"
+	},
+	{
 		"abr": "psychoidleaves",
 		"price": 3,
 		"category": "Plant matter",
@@ -4247,6 +4427,12 @@
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_AA_Radyak"
+	},
+	{
+		"abr": "rainbowpetals",
+		"price": 3,
+		"category": "Plant matter",
+		"defname": "AJO_RainbowPetals"
 	},
 	{
 		"abr": "raptorshrimp",
@@ -4357,6 +4543,12 @@
 		"defname": "RawRice"
 	},
 	{
+		"abr": "rimcolony",
+		"price": 2,
+		"category": "Furniture",
+		"defname": "AJO_RimColony"
+	},
+	{
 		"abr": "ringofblood",
 		"price": 3167,
 		"category": "Apparel",
@@ -4445,6 +4637,18 @@
 		"price": 1467,
 		"category": "Furniture",
 		"defname": "RoyalBed"
+	},
+	{
+		"abr": "rumswirledcabinet",
+		"price": 1333,
+		"category": "Furniture",
+		"defname": "AJO_ArcadeRS"
+	},
+	{
+		"abr": "rumswirledcartridge",
+		"price": 167,
+		"category": "Cartridges",
+		"defname": "AJO_CartRS"
 	},
 	{
 		"abr": "sandlion",
@@ -4675,6 +4879,12 @@
 		"defname": "Meat_AA_Slurrypede"
 	},
 	{
+		"abr": "smallchandelier",
+		"price": 85,
+		"category": "Furniture",
+		"defname": "ChanPart_1x1_Support"
+	},
+	{
 		"abr": "smallsculpture",
 		"price": 275,
 		"category": "Art",
@@ -4723,10 +4933,28 @@
 		"defname": "MeleeWeapon_Spear"
 	},
 	{
+		"abr": "spectagotea",
+		"price": 8,
+		"category": "Drugs",
+		"defname": "AJO_SpectagoTea"
+	},
+	{
 		"abr": "spelopede",
 		"price": 333,
 		"category": "Animal",
 		"defname": "Spelopede"
+	},
+	{
+		"abr": "speltunkycabinet",
+		"price": 1333,
+		"category": "Furniture",
+		"defname": "AJO_ArcadeSP"
+	},
+	{
+		"abr": "speltunkycartridge",
+		"price": 167,
+		"category": "Cartridges",
+		"defname": "AJO_CartSP"
 	},
 	{
 		"abr": "spiketrap",
@@ -4981,6 +5209,18 @@
 		"defname": "Meat_AA_TetraSlug"
 	},
 	{
+		"abr": "thezimzcabinet",
+		"price": 1333,
+		"category": "Furniture",
+		"defname": "AJO_ArcadeTZ"
+	},
+	{
+		"abr": "thezimzcartridge",
+		"price": 167,
+		"category": "Cartridges",
+		"defname": "AJO_CartTZ"
+	},
+	{
 		"abr": "thermadon",
 		"price": 1083,
 		"category": "Animal",
@@ -5047,6 +5287,12 @@
 		"defname": "Torn_BookOfBard"
 	},
 	{
+		"abr": "tornscript:chronomancy",
+		"price": 2917,
+		"category": "Skill books",
+		"defname": "Torn_BookOfChronomancer"
+	},
+	{
 		"abr": "tornscript:demonology",
 		"price": 2917,
 		"category": "Skill books",
@@ -5065,7 +5311,7 @@
 		"defname": "Torn_BookOfInnerFire"
 	},
 	{
-		"abr": "tornscript:geomancer",
+		"abr": "tornscript:geomancy",
 		"price": 2917,
 		"category": "Skill books",
 		"defname": "Torn_BookOfEarth"
@@ -5075,12 +5321,6 @@
 		"price": 2917,
 		"category": "Skill books",
 		"defname": "Torn_BookOfHemomancy"
-	},
-	{
-		"abr": "tornscript:holy",
-		"price": 2917,
-		"category": "Skill books",
-		"defname": "Torn_BookOfValiant"
 	},
 	{
 		"abr": "tornscript:ice",
@@ -5105,6 +5345,12 @@
 		"price": 2917,
 		"category": "Skill books",
 		"defname": "Torn_BookOfUndead"
+	},
+	{
+		"abr": "tornscript:paladin",
+		"price": 2917,
+		"category": "Skill books",
+		"defname": "Torn_BookOfValiant"
 	},
 	{
 		"abr": "tornscript:power",
@@ -5159,6 +5405,18 @@
 		"price": 253,
 		"category": "Misc",
 		"defname": "TransportPod"
+	},
+	{
+		"abr": "traumavendorcabinet",
+		"price": 1333,
+		"category": "Furniture",
+		"defname": "AJO_ArcadeTV"
+	},
+	{
+		"abr": "traumavendorcartridge",
+		"price": 167,
+		"category": "Cartridges",
+		"defname": "AJO_CartTV"
 	},
 	{
 		"abr": "tribalheaddress",
@@ -5561,31 +5819,7 @@
 		"price": 2333,
 		"category": "Items",
 		"defname": "MechSerumYouth"
-	},
-	{
-		"abr": "arcanescript:chronomancer",
-		"price": 5500,
-		"category": "Skill books",
-		"defname": "BookOfChronomancer"
-	},
-	{
-		"abr": "chronomancerspell:recall",
-		"price": 3333,
-		"category": "Scrolls",
-		"defname": "SpellOf_Recall"
-	},
-	{
-		"abr": "combatstyle:monk",
-		"price": 4292,
-		"category": "Skill books",
-		"defname": "BookOfMonk"
-	},
-	{
-		"abr": "tornscript:chronomancy",
-		"price": 2917,
-		"category": "Skill books",
-		"defname": "Torn_BookOfChronomancer"
 	}
 	],
-	"total": 931
+	"total": 970
 }
