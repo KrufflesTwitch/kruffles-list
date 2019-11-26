@@ -1,6 +1,16 @@
 {
 	"incitems" : [
 	{
+		"abr": "tornado",
+		"price": 1000,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "tornados",
+		"price": 3000,
+		"karmatype": "Bad"
+	},
+	{
 		"abr": "clearweather",
 		"price": 400,
 		"karmatype": "Good"
@@ -12,7 +22,7 @@
 	},
 	{
 		"abr": "vomitrain",
-		"price": 1600,
+		"price": 650,
 		"karmatype": "Neutral"
 	},
 	{
@@ -57,22 +67,27 @@
 	},
 	{
 		"abr": "coldsnap",
-		"price": 800,
+		"price": 1500,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "solarflare",
+		"price": 700,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "shortcircuit",
 		"price": 500,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "toxicfallout",
-		"price": 6000,
+		"price": 8500,
 		"karmatype": "Doom"
 	},
 	{
 		"abr": "volcanicwinter",
-		"price": 2600,
+		"price": 5500,
 		"karmatype": "Doom"
 	},
 	{
@@ -96,8 +111,8 @@
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "animaltame",
-		"price": 150,
+		"abr": "wandererjoins",
+		"price": 2500,
 		"karmatype": "Good"
 	},
 	{
@@ -107,7 +122,7 @@
 	},
 	{
 		"abr": "transportpodcrash",
-		"price": 600,
+		"price": 800,
 		"karmatype": "Good"
 	},
 	{
@@ -121,23 +136,18 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "inspiration",
-		"price": 150,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "meteor",
 		"price": 150,
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "maninblack",
-		"price": 350,
+		"price": 3000,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "madanimal",
-		"price": 600,
+		"price": 200,
 		"karmatype": "Bad"
 	},
 	{
@@ -157,17 +167,12 @@
 	},
 	{
 		"abr": "herdmigration",
-		"price": 400,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "farmanimals",
 		"price": 200,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "wildman",
-		"price": 300,
+		"price": 1500,
 		"karmatype": "Good"
 	},
 	{
@@ -182,7 +187,7 @@
 	},
 	{
 		"abr": "travelergroup",
-		"price": 350,
+		"price": 80,
 		"karmatype": "Good"
 	},
 	{
@@ -193,11 +198,6 @@
 	{
 		"abr": "skillincrease",
 		"price": 200,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "yorkshireterriers",
-		"price": 400,
 		"karmatype": "Good"
 	},
 	{
@@ -221,38 +221,43 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "militaryaid",
-		"price": 700,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "raid",
 		"price": 1500,
-		"karmatype": "Doom"
+		"karmatype": "Bad"
 	},
 	{
 		"abr": "dropraid",
-		"price": 4000,
+		"price": 4500,
 		"karmatype": "Doom"
 	},
 	{
 		"abr": "sapperraid",
-		"price": 1500,
-		"karmatype": "Doom"
+		"price": 3500,
+		"karmatype": "Bad"
 	},
 	{
 		"abr": "siegeraid",
-		"price": 2500,
-		"karmatype": "Doom"
+		"price": 3500,
+		"karmatype": "Bad"
 	},
 	{
 		"abr": "mechanoidraid",
+		"price": 3500,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "infestation",
 		"price": 2500,
 		"karmatype": "Doom"
 	},
 	{
 		"abr": "manhunterpack",
-		"price": 1500,
+		"price": 3500,
+		"karmatype": "Doom"
+	},
+	{
+		"abr": "predators",
+		"price": 2500,
 		"karmatype": "Bad"
 	},
 	{
@@ -267,7 +272,7 @@
 	},
 	{
 		"abr": "reviveanypawn",
-		"price": 5000,
+		"price": 3000,
 		"karmatype": "Good"
 	},
 	{
@@ -276,18 +281,18 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "gambleskill",
+		"abr": "levelskill",
 		"price": 1500,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "trait",
-		"price": 2000,
+		"price": 1500,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "removetrait",
-		"price": 2000,
+		"price": 1500,
 		"karmatype": "Good"
 	},
 	{
@@ -297,33 +302,33 @@
 	},
 	{
 		"abr": "prisoner",
-		"price": 1000,
+		"price": 800,
 		"karmatype": "Good"
 	},
 	{
-		"abr": "bloodbowl",
-		"price": 1200,
+		"abr": "visitcolony",
+		"price": 300,
 		"karmatype": "Good"
 	},
 	{
-		"abr": "cheesecat",
+		"abr": "berescued",
 		"price": 900,
 		"karmatype": "Good"
 	},
 	{
-		"abr": "exoticitem",
-		"price": 900,
+		"abr": "randominspire",
+		"price": 450,
 		"karmatype": "Good"
 	},
 	{
-		"abr": "kitsuneassist",
-		"price": 1500,
-		"karmatype": "Good"
+		"abr": "torytalkervote",
+		"price": 750,
+		"karmatype": "Neutral"
 	},
 	{
-		"abr": "mentalbreak",
-		"price": 1500,
-		"karmatype": "Bad"
+		"abr": "hodlbotvote",
+		"price": 600,
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "reversetraderequest",
@@ -386,5 +391,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 77
+	"total": 78
 }
