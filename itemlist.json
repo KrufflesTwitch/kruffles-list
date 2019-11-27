@@ -5936,37 +5936,37 @@
 	},
 	{
 		"abr": "guestbed",
-		"price": 155,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "BedGuest"
 	},
 	{
 		"abr": "guestbedroll",
-		"price": 137,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "BedrollGuest"
 	},
 	{
 		"abr": "guestdoublebed",
-		"price": 292,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "DoubleBedGuest"
 	},
 	{
 		"abr": "guestdoublebedroll",
-		"price": 290,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "BedrollDoubleGuest"
 	},
 	{
 		"abr": "guesthospitalbed",
-		"price": 667,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "HospitalBedGuest"
 	},
 	{
 		"abr": "guestroyalbed",
-		"price": 1467,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "RoyalBedGuest"
 	}
