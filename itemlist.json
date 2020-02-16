@@ -1,12 +1,6 @@
 {
 	"items" : [
 	{
-		"abr": "advancedbattery",
-		"price": -10,
-		"category": "Power",
-		"defname": "Battery_Advanced"
-	},
-	{
 		"abr": "advancedbionicarm",
 		"price": -10,
 		"category": "Advanced bionics",
@@ -55,12 +49,6 @@
 		"defname": "ComponentSpacer"
 	},
 	{
-		"abr": "advancedgeothermalgenerator",
-		"price": -10,
-		"category": "Power",
-		"defname": "sd_adv_powergen_adv_geothermal_generator"
-	},
-	{
 		"abr": "advancedhelmet",
 		"price": -10,
 		"category": "Headgear",
@@ -73,34 +61,10 @@
 		"defname": "AdvancedMedicalStation"
 	},
 	{
-		"abr": "advancednuclearpowerplant",
-		"price": -10,
-		"category": "Power",
-		"defname": "sd_adv_powergen_nuclear_power_plant"
-	},
-	{
 		"abr": "advancedpowerarm",
 		"price": -10,
 		"category": "Advanced bionics",
 		"defname": "AdvancedPowerArm"
-	},
-	{
-		"abr": "advancedsolargenerator",
-		"price": -10,
-		"category": "Power",
-		"defname": "sd_adv_powergen_adv_solar_generator"
-	},
-	{
-		"abr": "advancedwatermillgenerator",
-		"price": -10,
-		"category": "Power",
-		"defname": "sd_adv_powergen_WatermillGenerator"
-	},
-	{
-		"abr": "advancedwindturbine",
-		"price": -10,
-		"category": "Power",
-		"defname": "sd_adv_powergen_adv_wind_turbine"
 	},
 	{
 		"abr": "aerofleet",
@@ -164,7 +128,7 @@
 	},
 	{
 		"abr": "aipersonacore",
-		"price": -10,
+		"price": 6800,
 		"category": "Items",
 		"defname": "AIPersonaCore"
 	},
@@ -416,19 +380,19 @@
 	},
 	{
 		"abr": "archotecharm",
-		"price": -10,
+		"price": 4500,
 		"category": "Advanced bionics",
 		"defname": "ArchotechArm"
 	},
 	{
 		"abr": "archotecheye",
-		"price": -10,
+		"price": 3500,
 		"category": "Advanced bionics",
 		"defname": "ArchotechEye"
 	},
 	{
 		"abr": "archotechleg",
-		"price": -10,
+		"price": 4500,
 		"category": "Advanced bionics",
 		"defname": "ArchotechLeg"
 	},
@@ -782,7 +746,7 @@
 	},
 	{
 		"abr": "bloodmagespell:bloodmoon",
-		"price": -10,
+		"price": 3750,
 		"category": "Scrolls",
 		"defname": "SpellOf_BloodMoon"
 	},
@@ -860,19 +824,19 @@
 	},
 	{
 		"abr": "bracersofdefense",
-		"price": -10,
+		"price": 2483,
 		"category": "Apparel",
 		"defname": "TM_Artifact_BracersOfDefense"
 	},
 	{
 		"abr": "bracersofdeflection",
-		"price": -10,
+		"price": 2558,
 		"category": "Apparel",
 		"defname": "TM_Artifact_BracersOfDeflection"
 	},
 	{
 		"abr": "bracersofthepacifist",
-		"price": -10,
+		"price": 6375,
 		"category": "Apparel",
 		"defname": "TM_Artifact_BracersOfThePacifist"
 	},
@@ -938,13 +902,13 @@
 	},
 	{
 		"abr": "builder(iv)basestation",
-		"price": -10,
+		"price": 9417,
 		"category": "Furniture",
 		"defname": "RPP_RechargeStation_Builder_IV"
 	},
 	{
 		"abr": "builder(v)basestation",
-		"price": -10,
+		"price": 19092,
 		"category": "Furniture",
 		"defname": "RPP_RechargeStation_Builder_V"
 	},
@@ -1178,7 +1142,7 @@
 	},
 	{
 		"abr": "chickenmeat",
-		"price": -10,
+		"price": 10,
 		"category": "Meat",
 		"defname": "Meat_Chicken"
 	},
@@ -1286,13 +1250,13 @@
 	},
 	{
 		"abr": "cleaner(iv)basestation",
-		"price": -10,
+		"price": 9417,
 		"category": "Furniture",
 		"defname": "AIRobot_RechargeStation_Cleaner_IV"
 	},
 	{
 		"abr": "cleaner(v)basestation",
-		"price": -10,
+		"price": 19092,
 		"category": "Furniture",
 		"defname": "AIRobot_RechargeStation_Cleaner_V"
 	},
@@ -1328,7 +1292,7 @@
 	},
 	{
 		"abr": "cloakofsupremacy",
-		"price": -10,
+		"price": 7433,
 		"category": "Magic equipment",
 		"defname": "DemonLordCloak"
 	},
@@ -1379,12 +1343,6 @@
 		"price": -10,
 		"category": "Meat",
 		"defname": "Meat_AA_ColossalAerofleet"
-	},
-	{
-		"abr": "combatdummy",
-		"price": -10,
-		"category": "Misc",
-		"defname": "CombatDummy"
 	},
 	{
 		"abr": "combatform:faceless",
@@ -1544,13 +1502,13 @@
 	},
 	{
 		"abr": "crafter(iv)basestation",
-		"price": -10,
+		"price": 9417,
 		"category": "Furniture",
 		"defname": "RPP_RechargeStation_Crafter_IV"
 	},
 	{
 		"abr": "crafter(v)basestation",
-		"price": -10,
+		"price": 19092,
 		"category": "Furniture",
 		"defname": "RPP_RechargeStation_Crafter_V"
 	},
@@ -1745,42 +1703,6 @@
 		"price": -10,
 		"category": "Buildings",
 		"defname": "PH_DoorTriple"
-	},
-	{
-		"abr": "doormat",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "DoorMatLeather"
-	},
-	{
-		"abr": "doormat(blue)",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "DoorMatBlue"
-	},
-	{
-		"abr": "doormat(green)",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "DoorMatGreen"
-	},
-	{
-		"abr": "doormat(orange)",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "DoorMatOrange"
-	},
-	{
-		"abr": "doormat(red)",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "DoorMatRed"
-	},
-	{
-		"abr": "doormat(teal)",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "DoorMatTeal"
 	},
 	{
 		"abr": "doublebed",
@@ -2126,13 +2048,13 @@
 	},
 	{
 		"abr": "er(iv)basestation",
-		"price": -10,
+		"price": 9417,
 		"category": "Furniture",
 		"defname": "RPP_RechargeStation_ER_IV"
 	},
 	{
 		"abr": "er(v)basestation",
-		"price": -10,
+		"price": 19092,
 		"category": "Furniture",
 		"defname": "RPP_RechargeStation_ER_V"
 	},
@@ -2204,13 +2126,13 @@
 	},
 	{
 		"abr": "fighterskill:fightersfocus",
-		"price": -10,
+		"price": 1333,
 		"category": "Scrolls",
 		"defname": "SkillOf_FightersFocus"
 	},
 	{
 		"abr": "fighterskill:gearrepair",
-		"price": -10,
+		"price": 1167,
 		"category": "Scrolls",
 		"defname": "SkillOf_GearRepair"
 	},
@@ -2258,7 +2180,7 @@
 	},
 	{
 		"abr": "fighterskill:thickskin",
-		"price": -10,
+		"price": 667,
 		"category": "Scrolls",
 		"defname": "SkillOf_ThickSkin"
 	},
@@ -2294,7 +2216,7 @@
 	},
 	{
 		"abr": "firespell:firestorm",
-		"price": -10,
+		"price": 3583,
 		"category": "Scrolls",
 		"defname": "SpellOf_Firestorm"
 	},
@@ -2492,7 +2414,7 @@
 	},
 	{
 		"abr": "geomancerspell:meteor",
-		"price": -10,
+		"price": 2750,
 		"category": "Scrolls",
 		"defname": "SpellOf_Meteor"
 	},
@@ -2549,12 +2471,6 @@
 		"price": -10,
 		"category": "Raw resources",
 		"defname": "Gold"
-	},
-	{
-		"abr": "goldenbattery",
-		"price": -10,
-		"category": "Power",
-		"defname": "Battery_Gold"
 	},
 	{
 		"abr": "grandsculpture",
@@ -2635,42 +2551,6 @@
 		"defname": "Meat_AA_Groundrunner"
 	},
 	{
-		"abr": "guestbed",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "BedGuest"
-	},
-	{
-		"abr": "guestbedroll",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "BedrollGuest"
-	},
-	{
-		"abr": "guestdoublebed",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "DoubleBedGuest"
-	},
-	{
-		"abr": "guestdoublebedroll",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "BedrollDoubleGuest"
-	},
-	{
-		"abr": "guesthospitalbed",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "HospitalBedGuest"
-	},
-	{
-		"abr": "guestroyalbed",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "RoyalBedGuest"
-	},
-	{
 		"abr": "guncomplex",
 		"price": -10,
 		"category": "Security",
@@ -2714,13 +2594,13 @@
 	},
 	{
 		"abr": "hauler(iv)basestation",
-		"price": -10,
+		"price": 9417,
 		"category": "Furniture",
 		"defname": "AIRobot_RechargeStation_Hauler_IV"
 	},
 	{
 		"abr": "hauler(v)basestation",
-		"price": -10,
+		"price": 19092,
 		"category": "Furniture",
 		"defname": "AIRobot_RechargeStation_Hauler_V"
 	},
@@ -3008,7 +2888,7 @@
 	},
 	{
 		"abr": "icespell:blizzard",
-		"price": -10,
+		"price": 3583,
 		"category": "Scrolls",
 		"defname": "SpellOf_Blizzard"
 	},
@@ -3188,7 +3068,7 @@
 	},
 	{
 		"abr": "jukebox",
-		"price": -10,
+		"price": 2617,
 		"category": "Recreation",
 		"defname": "JukeBox"
 	},
@@ -3302,13 +3182,13 @@
 	},
 	{
 		"abr": "kitchen(iv)basestation",
-		"price": -10,
+		"price": 9417,
 		"category": "Furniture",
 		"defname": "RPP_RechargeStation_Kitchen_IV"
 	},
 	{
 		"abr": "kitchen(v)basestation",
-		"price": -10,
+		"price": 19092,
 		"category": "Furniture",
 		"defname": "RPP_RechargeStation_Kitchen_V"
 	},
@@ -3343,42 +3223,6 @@
 		"defname": "RGK_LampM"
 	},
 	{
-		"abr": "largedoormat",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "DoorMatBigLeather"
-	},
-	{
-		"abr": "largedoormat(blue)",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "DoorMatBigBlue"
-	},
-	{
-		"abr": "largedoormat(green)",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "DoorMatBigGreen"
-	},
-	{
-		"abr": "largedoormat(orange)",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "DoorMatBigOrange"
-	},
-	{
-		"abr": "largedoormat(red)",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "DoorMatBigRed"
-	},
-	{
-		"abr": "largedoormat(teal)",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "DoorMatBigTeal"
-	},
-	{
 		"abr": "largesculpture",
 		"price": -10,
 		"category": "Art",
@@ -3404,7 +3248,7 @@
 	},
 	{
 		"abr": "lightningspell:eyeofthestorm",
-		"price": -10,
+		"price": 3583,
 		"category": "Scrolls",
 		"defname": "SpellOf_EyeOfTheStorm"
 	},
@@ -3413,42 +3257,6 @@
 		"price": -10,
 		"category": "Stone blocks",
 		"defname": "BlocksLimestone"
-	},
-	{
-		"abr": "linkeddoormat",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "DoorMatLinkedLeather"
-	},
-	{
-		"abr": "linkeddoormat(blue)",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "DoorMatLinkedBlue"
-	},
-	{
-		"abr": "linkeddoormat(green)",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "DoorMatLinkedGreen"
-	},
-	{
-		"abr": "linkeddoormat(orange)",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "DoorMatLinkedOrange"
-	},
-	{
-		"abr": "linkeddoormat(red)",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "DoorMatLinkedRed"
-	},
-	{
-		"abr": "linkeddoormat(teal)",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "DoorMatLinkedTeal"
 	},
 	{
 		"abr": "liver",
@@ -3548,7 +3356,7 @@
 	},
 	{
 		"abr": "magespell:blink",
-		"price": -10,
+		"price": 3833,
 		"category": "Scrolls",
 		"defname": "SpellOf_Blink"
 	},
@@ -3853,42 +3661,6 @@
 		"defname": "MedicineIndustrial"
 	},
 	{
-		"abr": "mediumdoormat",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "DoorMatMediumLeather"
-	},
-	{
-		"abr": "mediumdoormat(blue)",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "DoorMatMediumBlue"
-	},
-	{
-		"abr": "mediumdoormat(green)",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "DoorMatMediumGreen"
-	},
-	{
-		"abr": "mediumdoormat(orange)",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "DoorMatMediumOrange"
-	},
-	{
-		"abr": "mediumdoormat(red)",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "DoorMatMediumRed"
-	},
-	{
-		"abr": "mediumdoormat(teal)",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "DoorMatMediumTeal"
-	},
-	{
 		"abr": "megalouse",
 		"price": -10,
 		"category": "Animal",
@@ -3914,7 +3686,7 @@
 	},
 	{
 		"abr": "megascreentelevision",
-		"price": -10,
+		"price": 6475,
 		"category": "Recreation",
 		"defname": "MegascreenTelevision"
 	},
@@ -3968,7 +3740,7 @@
 	},
 	{
 		"abr": "minigun",
-		"price": -10,
+		"price": 1933,
 		"category": "Ranged weapons",
 		"defname": "Gun_Minigun"
 	},
@@ -4286,7 +4058,7 @@
 	},
 	{
 		"abr": "omni(v)basestation",
-		"price": -10,
+		"price": 29092,
 		"category": "Furniture",
 		"defname": "RPP_RechargeStation_Omni_V"
 	},
@@ -4394,7 +4166,7 @@
 	},
 	{
 		"abr": "paladinspell:holywrath",
-		"price": -10,
+		"price": 3167,
 		"category": "Scrolls",
 		"defname": "SpellOf_HolyWrath"
 	},
@@ -4430,7 +4202,7 @@
 	},
 	{
 		"abr": "paragon'shelm",
-		"price": -10,
+		"price": 3167,
 		"category": "Magic equipment",
 		"defname": "ParagonHelm"
 	},
@@ -4543,12 +4315,6 @@
 		"defname": "Plasteel"
 	},
 	{
-		"abr": "plasteelbattery",
-		"price": -10,
-		"category": "Power",
-		"defname": "Battery_Plasteel"
-	},
-	{
 		"abr": "platearmor",
 		"price": -10,
 		"category": "Apparel",
@@ -4640,7 +4406,7 @@
 	},
 	{
 		"abr": "priestspell:resurrection",
-		"price": -10,
+		"price": 6250,
 		"category": "Scrolls",
 		"defname": "SpellOf_Resurrection"
 	},
@@ -4652,7 +4418,7 @@
 	},
 	{
 		"abr": "psychicemanator",
-		"price": -10,
+		"price": 8167,
 		"category": "Special",
 		"defname": "PsychicEmanator"
 	},
@@ -4703,36 +4469,6 @@
 		"price": -10,
 		"category": "Furniture",
 		"defname": "RimFridge_QuadRefrigerator"
-	},
-	{
-		"abr": "quantumcooler(large)",
-		"price": -10,
-		"category": "Temperature",
-		"defname": "QC_QuantumCooler_Large"
-	},
-	{
-		"abr": "quantumcooler(prototype)",
-		"price": -10,
-		"category": "Temperature",
-		"defname": "QC_QuantumCooler_Proto"
-	},
-	{
-		"abr": "quantumcooler(small)",
-		"price": -10,
-		"category": "Temperature",
-		"defname": "QC_QuantumCooler"
-	},
-	{
-		"abr": "quantumheater(large)",
-		"price": -10,
-		"category": "Temperature",
-		"defname": "QC_QuantumHeater_Large"
-	},
-	{
-		"abr": "quantumheater(small)",
-		"price": -10,
-		"category": "Temperature",
-		"defname": "QC_QuantumHeater"
 	},
 	{
 		"abr": "quarterhorse",
@@ -4904,31 +4640,31 @@
 	},
 	{
 		"abr": "ringofblood",
-		"price": -10,
+		"price": 4167,
 		"category": "Apparel",
 		"defname": "TM_Artifact_RingOfBlood"
 	},
 	{
 		"abr": "ringofkeenintellect",
-		"price": -10,
+		"price": 4500,
 		"category": "Apparel",
 		"defname": "TM_Artifact_RingOfKeenIntellect"
 	},
 	{
 		"abr": "ringofmalice",
-		"price": -10,
+		"price": 4167,
 		"category": "Apparel",
 		"defname": "TM_Artifact_RingOfMalice"
 	},
 	{
 		"abr": "ringoftheeternalblue",
-		"price": -10,
+		"price": 4333,
 		"category": "Apparel",
 		"defname": "TM_Artifact_RingOfEternalBlue"
 	},
 	{
 		"abr": "robesofthearchmage",
-		"price": -10,
+		"price": 10417,
 		"category": "Magic equipment",
 		"defname": "ArchMageRobe"
 	},
@@ -5159,12 +4895,6 @@
 		"price": -10,
 		"category": "Raw resources",
 		"defname": "Silver"
-	},
-	{
-		"abr": "silverbattery",
-		"price": -10,
-		"category": "Power",
-		"defname": "Battery_Silver"
 	},
 	{
 		"abr": "simplehelmet",
@@ -5432,7 +5162,7 @@
 	},
 	{
 		"abr": "staffofblazingpower",
-		"price": -10,
+		"price": 6250,
 		"category": "Ranged weapons",
 		"defname": "TM_BlazingPowerStaff"
 	},
@@ -5516,7 +5246,7 @@
 	},
 	{
 		"abr": "succubusspell:scorn",
-		"price": -10,
+		"price": 2750,
 		"category": "Scrolls",
 		"defname": "SpellOf_Scorn"
 	},
@@ -5534,7 +5264,7 @@
 	},
 	{
 		"abr": "summonerspell:summonpoppi",
-		"price": -10,
+		"price": 3767,
 		"category": "Scrolls",
 		"defname": "SpellOf_SummonPoppi"
 	},
@@ -5546,31 +5276,31 @@
 	},
 	{
 		"abr": "syntheticheart",
-		"price": -10,
+		"price": 2042,
 		"category": "Synthetic organs",
 		"defname": "SyntheticHeart"
 	},
 	{
 		"abr": "synthetickidney",
-		"price": -10,
+		"price": 2042,
 		"category": "Synthetic organs",
 		"defname": "SyntheticKidney"
 	},
 	{
 		"abr": "syntheticliver",
-		"price": -10,
+		"price": 2042,
 		"category": "Synthetic organs",
 		"defname": "SyntheticLiver"
 	},
 	{
 		"abr": "syntheticlung",
-		"price": -10,
+		"price": 2042,
 		"category": "Synthetic organs",
 		"defname": "SyntheticLung"
 	},
 	{
 		"abr": "syntheticstomach",
-		"price": -10,
+		"price": 2042,
 		"category": "Synthetic organs",
 		"defname": "SyntheticStomach"
 	},
@@ -5624,7 +5354,7 @@
 	},
 	{
 		"abr": "technomancerspell:orbitalstrike",
-		"price": -10,
+		"price": 2833,
 		"category": "Scrolls",
 		"defname": "SpellOf_OrbitalStrike"
 	},
@@ -5648,7 +5378,7 @@
 	},
 	{
 		"abr": "telescope",
-		"price": -10,
+		"price": 2583,
 		"category": "Recreation",
 		"defname": "Telescope"
 	},
@@ -5684,7 +5414,7 @@
 	},
 	{
 		"abr": "thrumbow",
-		"price": -10,
+		"price": 7467,
 		"category": "Ranged weapons",
 		"defname": "TM_ThrumBow"
 	},
@@ -5696,7 +5426,7 @@
 	},
 	{
 		"abr": "thrumboaxe",
-		"price": -10,
+		"price": 7750,
 		"category": "Melee weapons",
 		"defname": "TM_ThrumboAxe"
 	},
@@ -5863,24 +5593,6 @@
 		"defname": "Meat_Tortoise"
 	},
 	{
-		"abr": "trainingbbgun",
-		"price": -10,
-		"category": "Ranged training weapons",
-		"defname": "Gun_TrainingBBGun"
-	},
-	{
-		"abr": "trainingbow",
-		"price": -10,
-		"category": "Ranged training weapons",
-		"defname": "Bow_TrainingShort"
-	},
-	{
-		"abr": "trainingknife",
-		"price": -10,
-		"category": "Melee training weapons",
-		"defname": "MeleeWeapon_TrainingKnife"
-	},
-	{
 		"abr": "transportpod",
 		"price": -10,
 		"category": "Misc",
@@ -5989,12 +5701,6 @@
 		"defname": "Uranium"
 	},
 	{
-		"abr": "uraniumbattery",
-		"price": -10,
-		"category": "Power",
-		"defname": "Battery_Uranium"
-	},
-	{
 		"abr": "uraniumslugturret",
 		"price": -10,
 		"category": "Security",
@@ -6002,7 +5708,7 @@
 	},
 	{
 		"abr": "vanometricpowercell",
-		"price": -10,
+		"price": 25000,
 		"category": "Special",
 		"defname": "VanometricPowerCell"
 	},
@@ -6152,7 +5858,7 @@
 	},
 	{
 		"abr": "warlockspell:psychicshock",
-		"price": -10,
+		"price": 3000,
 		"category": "Scrolls",
 		"defname": "SpellOf_PsychicShock"
 	},
@@ -6289,11 +5995,203 @@
 		"defname": "Meat_YorkshireTerrier"
 	},
 	{
+		"abr": "lampe(white)",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "GL_lampE_White"
+	},
+	{
+		"abr": "lampm(white)",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "GL_LampM_White"
+	},
+	{
+		"abr": "lamp(white)",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "GL_lamp_White"
+	},
+	{
+		"abr": "barber'stable",
+		"price": -10,
+		"category": "Misc",
+		"defname": "VHE_TableBarber"
+	},
+	{
+		"abr": "beef",
+		"price": -10,
+		"category": "Meat",
+		"defname": "Meat_MutantCow"
+	},
+	{
+		"abr": "butterfly",
+		"price": -10,
+		"category": "Animal",
+		"defname": "PoisonButterfly"
+	},
+	{
+		"abr": "butterflyegg(fert.)",
+		"price": -10,
+		"category": "Eggs (fert.)",
+		"defname": "EggButterflyFertilized"
+	},
+	{
+		"abr": "caravel",
+		"price": -10,
+		"category": "Animal",
+		"defname": "SPBoats_Caravel"
+	},
+	{
+		"abr": "colossalnautiloid",
+		"price": -10,
+		"category": "Animal",
+		"defname": "AA_ColossalNautiloidRace"
+	},
+	{
+		"abr": "colossalnautiloidegg",
+		"price": -10,
+		"category": "Items",
+		"defname": "AA_ColossalNautiloidEgg"
+	},
+	{
+		"abr": "cow",
+		"price": -10,
+		"category": "Animal",
+		"defname": "MutantCow"
+	},
+	{
+		"abr": "deer",
+		"price": -10,
+		"category": "Animal",
+		"defname": "PoisonDeer"
+	},
+	{
+		"abr": "fishingboat",
+		"price": -10,
+		"category": "Animal",
+		"defname": "SPBoats_FishingBoat"
+	},
+	{
+		"abr": "galleon",
+		"price": -10,
+		"category": "Animal",
+		"defname": "SPBoats_Galleon"
+	},
+	{
+		"abr": "ironboundleviathan",
+		"price": -10,
+		"category": "Animal",
+		"defname": "AA_IronboundLeviathanRace"
+	},
+	{
+		"abr": "ironboundleviathanembryo",
+		"price": -10,
+		"category": "Items",
+		"defname": "AA_IronboundLeviathanEmbryo"
+	},
+	{
+		"abr": "mirachianmano'war",
+		"price": -10,
+		"category": "Animal",
+		"defname": "AA_MirachianManowarRace"
+	},
+	{
+		"abr": "mirachianmano'wareggs",
+		"price": -10,
+		"category": "Items",
+		"defname": "AA_MirachianManowarEggs"
+	},
+	{
+		"abr": "paddlesteamer",
+		"price": -10,
+		"category": "Animal",
+		"defname": "SPBoats_PaddleSteamer"
+	},
+	{
+		"abr": "rat",
+		"price": -10,
+		"category": "Animal",
+		"defname": "PoisonRat"
+	},
+	{
+		"abr": "ratmeat",
+		"price": -10,
+		"category": "Meat",
+		"defname": "Meat_PoisonRat"
+	},
+	{
+		"abr": "rowboat",
+		"price": -10,
+		"category": "Animal",
+		"defname": "SPBoats_RowBoat"
+	},
+	{
+		"abr": "silk",
+		"price": -10,
+		"category": "Textiles",
+		"defname": "Silk"
+	},
+	{
+		"abr": "smallpotatosculpture",
+		"price": -10,
+		"category": "Art",
+		"defname": "PotatoSculpture"
+	},
+	{
+		"abr": "venison",
+		"price": -10,
+		"category": "Meat",
+		"defname": "Meat_PoisonDeer"
+	},
+	{
+		"abr": "wildmushrooms",
+		"price": -10,
+		"category": "Vegetarian",
+		"defname": "RawPoisonMushroom"
+	},
+	{
+		"abr": "guestbed",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "BedGuest"
+	},
+	{
+		"abr": "guestbedroll",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "BedrollGuest"
+	},
+	{
+		"abr": "guestdoublebed",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "DoubleBedGuest"
+	},
+	{
+		"abr": "guestdoublebedroll",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "BedrollDoubleGuest"
+	},
+	{
+		"abr": "guesthospitalbed",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "HospitalBedGuest"
+	},
+	{
+		"abr": "guestroyalbed",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "RoyalBedGuest"
+	},
+	{
 		"abr": "zombrella",
 		"price": -10,
 		"category": "Misc",
 		"defname": "Zombrella"
 	}
 	],
-	"total": 1049
+	"total": 1096
 }
