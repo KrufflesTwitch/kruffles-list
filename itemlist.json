@@ -3098,7 +3098,7 @@
 	},
 	{
 		"abr": "magespell:dirtdevil",
-		"price": -10,
+		"price": 1000,
 		"category": "Scrolls",
 		"defname": "SpellOf_DirtDevil"
 	},
@@ -3122,13 +3122,13 @@
 	},
 	{
 		"abr": "magespell:extinguish",
-		"price": -10,
+		"price": 900,
 		"category": "Scrolls",
 		"defname": "SpellOf_Extinguish"
 	},
 	{
 		"abr": "magespell:heal",
-		"price": -10,
+		"price": 1600,
 		"category": "Scrolls",
 		"defname": "SpellOf_Heal"
 	},
@@ -3182,7 +3182,7 @@
 	},
 	{
 		"abr": "magespell:spellmending",
-		"price": -10,
+		"price": 2000,
 		"category": "Scrolls",
 		"defname": "SpellOf_SpellMending"
 	},
@@ -5930,7 +5930,7 @@
 	},
 	{
 		"abr": "chickenman",
-		"price": -10,
+		"price": 2917,
 		"category": "Animal",
 		"defname": "Alien_Chicken"
 	},
@@ -6065,7 +6065,7 @@
 		"price": -10,
 		"category": "Misc",
 		"defname": "Zombrella"
-	}
+	},
 	],
 	"total": 1181
 }
