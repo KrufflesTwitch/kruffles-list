@@ -306,11 +306,6 @@
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "cheesecat",
-		"price": 900,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "kitsuneassist",
 		"price": 1500,
 		"karmatype": "Good"
@@ -326,5 +321,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 65
+	"total": 64
 }
