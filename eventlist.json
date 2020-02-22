@@ -102,7 +102,7 @@
 	},
 	{
 		"abr": "blight",
-		"price": 700,
+		"price": 1500,
 		"karmatype": "Bad"
 	},
 	{
@@ -167,8 +167,8 @@
 	},
 	{
 		"abr": "shipchunkdrop",
-		"price": 300,
-		"karmatype": "Good"
+		"price": 2500,
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "travelergroup",
@@ -218,7 +218,7 @@
 	{
 		"abr": "dropraid",
 		"price": 1500,
-		"karmatype": "Bad"
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "sapperraid",
@@ -238,7 +238,7 @@
 	{
 		"abr": "infestation",
 		"price": 2500,
-		"karmatype": "Bad"
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "manhunterpack",
@@ -306,65 +306,25 @@
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "reversetraderequest",
-		"price": 700,
+		"abr": "cheesecat",
+		"price": 900,
 		"karmatype": "Good"
 	},
 	{
-		"abr": "woundedcombatants",
+		"abr": "kitsuneassist",
 		"price": 1500,
-		"karmatype": "Neutral"
+		"karmatype": "Good"
 	},
 	{
-		"abr": "pirateextortion",
-		"price": 2500,
+		"abr": "mentalbreak",
+		"price": 1500,
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "roadworks",
-		"price": 1000,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "diplomaticmarriage",
-		"price": 1000,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "mysticalshaman",
-		"price": 1000,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "annualexpo",
-		"price": 1000,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "peacetalks",
-		"price": 1000,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "piratecamp",
-		"price": 1000,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "bumpercrops",
-		"price": 1000,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "hunterslodge",
-		"price": 1000,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "baseattack",
-		"price": 1000,
+		"abr": "terrierpack",
+		"price": 400,
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 73
+	"total": 65
 }
