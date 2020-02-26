@@ -2,12 +2,12 @@
 	"incitems" : [
 	{
 		"abr": "tornado",
-		"price": 5000,
+		"price": 1500,
 		"karmatype": "Doom"
 	},
 	{
 		"abr": "tornados",
-		"price": 12500,
+		"price": 3500,
 		"karmatype": "Doom"
 	},
 	{
@@ -102,7 +102,7 @@
 	},
 	{
 		"abr": "blight",
-		"price": 1500,
+		"price": 700,
 		"karmatype": "Bad"
 	},
 	{
@@ -111,8 +111,18 @@
 		"karmatype": "Good"
 	},
 	{
+		"abr": "wandererjoins",
+		"price": 1200,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "resourcepodcrash",
 		"price": 300,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "transportpodcrash",
+		"price": 600,
 		"karmatype": "Good"
 	},
 	{
@@ -129,6 +139,11 @@
 		"abr": "meteor",
 		"price": 150,
 		"karmatype": "Neutral"
+	},
+	{
+		"abr": "maninblack",
+		"price": 350,
+		"karmatype": "Good"
 	},
 	{
 		"abr": "madanimal",
@@ -161,14 +176,19 @@
 		"karmatype": "Good"
 	},
 	{
+		"abr": "wildman",
+		"price": 300,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "rarethrumbos",
 		"price": 500,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "shipchunkdrop",
-		"price": 2500,
-		"karmatype": "Doom"
+		"price": 300,
+		"karmatype": "Good"
 	},
 	{
 		"abr": "travelergroup",
@@ -218,7 +238,7 @@
 	{
 		"abr": "dropraid",
 		"price": 1500,
-		"karmatype": "Doom"
+		"karmatype": "Bad"
 	},
 	{
 		"abr": "sapperraid",
@@ -238,7 +258,7 @@
 	{
 		"abr": "infestation",
 		"price": 2500,
-		"karmatype": "Doom"
+		"karmatype": "Bad"
 	},
 	{
 		"abr": "manhunterpack",
@@ -252,7 +272,7 @@
 	},
 	{
 		"abr": "randomdisease",
-		"price": 1500,
+		"price": 1000,
 		"karmatype": "Bad"
 	},
 	{
@@ -261,18 +281,28 @@
 		"karmatype": "Bad"
 	},
 	{
+		"abr": "reviveanypawn",
+		"price": 1200,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "pawn",
+		"price": 1500,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "levelskill",
 		"price": 1500,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "trait",
-		"price": 1500,
+		"price": 3500,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "removetrait",
-		"price": 1500,
+		"price": 5500,
 		"karmatype": "Good"
 	},
 	{
@@ -281,13 +311,13 @@
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "visitcolony",
-		"price": 300,
+		"abr": "prisoner",
+		"price": 800,
 		"karmatype": "Good"
 	},
 	{
-		"abr": "berescued",
-		"price": 900,
+		"abr": "visitcolony",
+		"price": 300,
 		"karmatype": "Good"
 	},
 	{
@@ -302,24 +332,9 @@
 	},
 	{
 		"abr": "hodlbotvote",
-		"price": 3500,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "kitsuneassist",
-		"price": 1500,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "mentalbreak",
-		"price": 1500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "terrierpack",
-		"price": 400,
+		"price": 600,
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 64
+	"total": 67
 }
