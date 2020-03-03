@@ -2,12 +2,12 @@
 	"incitems" : [
 	{
 		"abr": "tornado",
-		"price": 1500,
+		"price": 2500,
 		"karmatype": "Doom"
 	},
 	{
 		"abr": "tornados",
-		"price": 3500,
+		"price": 6500,
 		"karmatype": "Doom"
 	},
 	{
@@ -57,7 +57,7 @@
 	},
 	{
 		"abr": "heatwave",
-		"price": 750,
+		"price": 1500,
 		"karmatype": "Bad"
 	},
 	{
@@ -67,17 +67,17 @@
 	},
 	{
 		"abr": "coldsnap",
-		"price": 800,
+		"price": 1500,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "solarflare",
-		"price": 500,
+		"price": 1500,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "shortcircuit",
-		"price": 500,
+		"price": 1000,
 		"karmatype": "Bad"
 	},
 	{
@@ -102,7 +102,7 @@
 	},
 	{
 		"abr": "blight",
-		"price": 700,
+		"price": 2000,
 		"karmatype": "Bad"
 	},
 	{
@@ -122,12 +122,12 @@
 	},
 	{
 		"abr": "transportpodcrash",
-		"price": 600,
+		"price": 1000,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "tradercaravan",
-		"price": 275,
+		"price": 450,
 		"karmatype": "Good"
 	},
 	{
@@ -142,7 +142,7 @@
 	},
 	{
 		"abr": "maninblack",
-		"price": 350,
+		"price": 1200,
 		"karmatype": "Good"
 	},
 	{
@@ -177,7 +177,7 @@
 	},
 	{
 		"abr": "wildman",
-		"price": 300,
+		"price": 800,
 		"karmatype": "Good"
 	},
 	{
@@ -192,12 +192,12 @@
 	},
 	{
 		"abr": "travelergroup",
-		"price": 80,
+		"price": 150,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "visitorgroup",
-		"price": 200,
+		"price": 400,
 		"karmatype": "Good"
 	},
 	{
@@ -237,8 +237,8 @@
 	},
 	{
 		"abr": "dropraid",
-		"price": 1500,
-		"karmatype": "Bad"
+		"price": 2500,
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "sapperraid",
@@ -258,7 +258,7 @@
 	{
 		"abr": "infestation",
 		"price": 2500,
-		"karmatype": "Bad"
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "manhunterpack",
@@ -282,7 +282,7 @@
 	},
 	{
 		"abr": "reviveanypawn",
-		"price": 1200,
+		"price": 5000,
 		"karmatype": "Good"
 	},
 	{
@@ -297,12 +297,12 @@
 	},
 	{
 		"abr": "trait",
-		"price": 3500,
+		"price": 1500,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "removetrait",
-		"price": 5500,
+		"price": 1500,
 		"karmatype": "Good"
 	},
 	{
@@ -327,12 +327,12 @@
 	},
 	{
 		"abr": "torytalkervote",
-		"price": 750,
+		"price": 1000,
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "hodlbotvote",
-		"price": 600,
+		"price": 1000,
 		"karmatype": "Neutral"
 	}
 	],
