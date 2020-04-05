@@ -7,7 +7,7 @@
 	},
 	{
 		"abr": "tornados",
-		"price": 6500,
+		"price": 6000,
 		"karmatype": "Doom"
 	},
 	{
@@ -57,7 +57,7 @@
 	},
 	{
 		"abr": "heatwave",
-		"price": 1500,
+		"price": 750,
 		"karmatype": "Bad"
 	},
 	{
@@ -67,12 +67,12 @@
 	},
 	{
 		"abr": "coldsnap",
-		"price": 1500,
+		"price": 800,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "solarflare",
-		"price": 1500,
+		"price": 500,
 		"karmatype": "Bad"
 	},
 	{
@@ -92,7 +92,7 @@
 	},
 	{
 		"abr": "eclipse",
-		"price": 450,
+		"price": 750,
 		"karmatype": "Bad"
 	},
 	{
@@ -111,23 +111,18 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "wandererjoins",
-		"price": 1200,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "resourcepodcrash",
 		"price": 300,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "transportpodcrash",
-		"price": 1000,
+		"price": 600,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "tradercaravan",
-		"price": 450,
+		"price": 275,
 		"karmatype": "Good"
 	},
 	{
@@ -142,7 +137,7 @@
 	},
 	{
 		"abr": "maninblack",
-		"price": 1200,
+		"price": 350,
 		"karmatype": "Good"
 	},
 	{
@@ -177,7 +172,7 @@
 	},
 	{
 		"abr": "wildman",
-		"price": 800,
+		"price": 300,
 		"karmatype": "Good"
 	},
 	{
@@ -192,12 +187,12 @@
 	},
 	{
 		"abr": "travelergroup",
-		"price": 150,
+		"price": 80,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "visitorgroup",
-		"price": 400,
+		"price": 200,
 		"karmatype": "Good"
 	},
 	{
@@ -237,8 +232,8 @@
 	},
 	{
 		"abr": "dropraid",
-		"price": 2500,
-		"karmatype": "Doom"
+		"price": 1500,
+		"karmatype": "Bad"
 	},
 	{
 		"abr": "sapperraid",
@@ -258,7 +253,7 @@
 	{
 		"abr": "infestation",
 		"price": 2500,
-		"karmatype": "Doom"
+		"karmatype": "Bad"
 	},
 	{
 		"abr": "manhunterpack",
@@ -282,12 +277,12 @@
 	},
 	{
 		"abr": "reviveanypawn",
-		"price": 5000,
+		"price": 1200,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "pawn",
-		"price": 1500,
+		"price": 3000,
 		"karmatype": "Good"
 	},
 	{
@@ -327,14 +322,14 @@
 	},
 	{
 		"abr": "torytalkervote",
-		"price": 1000,
+		"price": 750,
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "hodlbotvote",
-		"price": 1000,
+		"price": 600,
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 67
+	"total": 66
 }
