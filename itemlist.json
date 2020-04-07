@@ -2786,7 +2786,7 @@
 	},
 	{
 		"abr": "multi-analyzer",
-		"price": -10,
+		"price": 1700,
 		"category": "Misc",
 		"defname": "MultiAnalyzer"
 	},
@@ -3908,7 +3908,7 @@
 	},
 	{
 		"abr": "smokeleafjoint",
-		"price": -10,
+		"price": 25,
 		"category": "Drugs",
 		"defname": "SmokeleafJoint"
 	},
@@ -4004,7 +4004,7 @@
 	},
 	{
 		"abr": "steel",
-		"price": -10,
+		"price": 10,
 		"category": "Raw resources",
 		"defname": "Steel"
 	},
@@ -5804,7 +5804,7 @@
 	},
 	{
 		"abr": "serum:supersoldier",
-		"price": -10,
+		"price": 4500,
 		"category": "Skill books",
 		"defname": "BookOfSuperSoldier"
 	},
@@ -6098,7 +6098,7 @@
 	},
 	{
 		"abr": "silverbattery",
-		"price": 617,
+		"price": -10,
 		"category": "Power",
 		"defname": "Battery_Silver"
 	},
@@ -6116,13 +6116,13 @@
 	},
 	{
 		"abr": "bloodshrimp",
-		"price": 750,
+		"price": -10,
 		"category": "Animal",
 		"defname": "AA_BloodShrimp"
 	},
 	{
 		"abr": "bloodshrimpmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Meat",
 		"defname": "Meat_AA_BloodShrimp"
 	},
@@ -6349,5 +6349,5 @@
 		"defname": "Zombrella"
 	}
 	],
-	"total": 1197
+	"total": 1211
 }
