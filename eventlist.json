@@ -2,12 +2,12 @@
 	"incitems" : [
 	{
 		"abr": "tornado",
-		"price": 2500,
+		"price": 3500,
 		"karmatype": "Doom"
 	},
 	{
 		"abr": "tornados",
-		"price": 6000,
+		"price": 8000,
 		"karmatype": "Doom"
 	},
 	{
@@ -57,32 +57,32 @@
 	},
 	{
 		"abr": "heatwave",
-		"price": 1000,
+		"price": 2500,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "coldsnap",
-		"price": 1000,
+		"price": 3500,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "solarflare",
-		"price": 900,
+		"price": 1300,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "shortcircuit",
-		"price": 1000,
+		"price": 1500,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "toxicfallout",
-		"price": 6500,
+		"price": 8000,
 		"karmatype": "Doom"
 	},
 	{
 		"abr": "volcanicwinter",
-		"price": 4000,
+		"price": 5500,
 		"karmatype": "Doom"
 	},
 	{
@@ -92,18 +92,13 @@
 	},
 	{
 		"abr": "aurora",
-		"price": 200,
+		"price": 250,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "blight",
 		"price": 2000,
 		"karmatype": "Bad"
-	},
-	{
-		"abr": "animaltame",
-		"price": 150,
-		"karmatype": "Good"
 	},
 	{
 		"abr": "resourcepodcrash",
@@ -116,13 +111,8 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "orbitaltraderarrival",
-		"price": 350,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "meteor",
-		"price": 150,
+		"price": 300,
 		"karmatype": "Good"
 	},
 	{
@@ -142,7 +132,7 @@
 	},
 	{
 		"abr": "ambrosiasprout",
-		"price": 150,
+		"price": 350,
 		"karmatype": "Good"
 	},
 	{
@@ -171,11 +161,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "party",
-		"price": 400,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "shippartpoison",
 		"price": 2300,
 		"karmatype": "Bad"
@@ -192,12 +177,12 @@
 	},
 	{
 		"abr": "dropraid",
-		"price": 1500,
+		"price": 2500,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "sapperraid",
-		"price": 1500,
+		"price": 2000,
 		"karmatype": "Bad"
 	},
 	{
@@ -207,7 +192,7 @@
 	},
 	{
 		"abr": "mechanoidraid",
-		"price": 2500,
+		"price": 3500,
 		"karmatype": "Bad"
 	},
 	{
@@ -256,11 +241,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "genderswap",
-		"price": 600,
-		"karmatype": "Neutral"
-	},
-	{
 		"abr": "randominspire",
 		"price": 450,
 		"karmatype": "Good"
@@ -297,7 +277,7 @@
 	},
 	{
 		"abr": "surgery",
-		"price": 500,
+		"price": 1,
 		"karmatype": "Neutral"
 	},
 	{
@@ -308,6 +288,26 @@
 	{
 		"abr": "replacetrait",
 		"price": 1,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "rescueme",
+		"price": 800,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "fullheal",
+		"price": 2167,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "passion",
+		"price": 7000,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "removepassion",
+		"price": 5000,
 		"karmatype": "Neutral"
 	}
 	],
