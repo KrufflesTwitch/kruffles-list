@@ -70,19 +70,19 @@
       "abr": "archotecharm",
       "category": "Archotech",
       "defname": "ArchotechArm",
-      "price": 8000
+      "price": 5500
     },
     {
       "abr": "archotecheye",
       "category": "Archotech",
       "defname": "ArchotechEye",
-      "price": 8000
+      "price": 5500
     },
     {
       "abr": "archotechleg",
       "category": "Archotech",
       "defname": "ArchotechLeg",
-      "price": 8000
+      "price": 5500
     },
     {
       "abr": "arcticfox",
@@ -2536,43 +2536,43 @@
       "abr": "advancedbionicarm",
       "category": "Ultratech",
       "defname": "AdvancedBionicArm",
-      "price": 6500
+      "price": 7000
     },
     {
       "abr": "advancedbionicear",
       "category": "Ultratech",
       "defname": "AdvancedBionicEar",
-      "price": 6500
+      "price": 7000
     },
     {
       "abr": "advancedbioniceye",
       "category": "Ultratech",
       "defname": "AdvancedBionicEye",
-      "price": 6500
+      "price": 7000
     },
     {
       "abr": "advancedbionicfoot",
       "category": "Ultratech",
       "defname": "AdvancedBionicFoot",
-      "price": 6500
+      "price": 7000
     },
     {
       "abr": "advancedbionichand",
       "category": "Ultratech",
       "defname": "AdvancedBionicHand",
-      "price": 6500
+      "price": 7000
     },
     {
       "abr": "advancedbionicjaw",
       "category": "Ultratech",
       "defname": "AdvancedBionicJaw",
-      "price": 6500
+      "price": 7000
     },
     {
       "abr": "advancedbionicleg",
       "category": "Ultratech",
       "defname": "AdvancedBionicLeg",
-      "price": 6500
+      "price": 7000
     },
     {
       "abr": "advancedbionicspine",
@@ -2584,13 +2584,13 @@
       "abr": "advancedpowerarm",
       "category": "Ultratech",
       "defname": "AdvancedPowerArm",
-      "price": 6500
+      "price": 7000
     },
     {
       "abr": "advancedpowerclaw",
       "category": "Ultratech",
       "defname": "AdvancedPowerClaw",
-      "price": 6500
+      "price": 7000
     },
     {
       "abr": "aestheticnose",
@@ -5134,7 +5134,7 @@
       "abr": "syntheticlung",
       "category": "Bionic",
       "defname": "SyntheticLung",
-      "price": -10
+      "price": 2000
     },
     {
       "abr": "syrrium",
@@ -5626,73 +5626,73 @@
       "abr": "guestbed",
       "category": "Furniture",
       "defname": "BedGuest",
-      "price": -10
+      "price": 155
     },
     {
       "abr": "guestdoublebed",
       "category": "Furniture",
       "defname": "DoubleBedGuest",
-      "price": -10
+      "price": 292
     },
     {
       "abr": "guestroyalbed",
       "category": "Furniture",
       "defname": "RoyalBedGuest",
-      "price": -10
+      "price": 1467
     },
     {
       "abr": "guesthospitalbed",
       "category": "Furniture",
       "defname": "HospitalBedGuest",
-      "price": -10
+      "price": 667
     },
     {
       "abr": "guestbedroll",
       "category": "Furniture",
       "defname": "BedrollGuest",
-      "price": -10
+      "price": 137
     },
     {
       "abr": "guestdoublebedroll",
       "category": "Furniture",
       "defname": "BedrollDoubleGuest",
-      "price": -10
+      "price": 290
     },
     {
       "abr": "guestbed",
       "category": "Furniture",
       "defname": "RGK_bedSingleGuest",
-      "price": -10
+      "price": 155
     },
     {
       "abr": "guestbed",
       "category": "Furniture",
       "defname": "RGK_bedSingleBGuest",
-      "price": -10
+      "price": 155
     },
     {
       "abr": "guestdoublebed",
       "category": "Furniture",
       "defname": "RGK_bedDoubleGuest",
-      "price": -10
+      "price": 292
     },
     {
       "abr": "guestdoublebed2",
       "category": "Furniture",
       "defname": "RGK_bedDoubleBGuest",
-      "price": -10
+      "price": 292
     },
     {
       "abr": "guestclassydoublebed",
       "category": "Furniture",
       "defname": "GL_ClassyDoubleBedGuest",
-      "price": -10
+      "price": 942
     },
     {
       "abr": "zombrella",
       "category": "Misc",
       "defname": "Zombrella",
-      "price": -10
+      "price": 3333
     }
   ],
   "total": 949
